@@ -1,4 +1,6 @@
 ## Welcome to Joaquim's homepage
+
+Have a Wonderful Day !
 <!---
 You can use the [editor on GitHub](https://github.com/jim79/jim79.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

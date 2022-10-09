@@ -2,7 +2,12 @@
 main:
   # - title: "Publications"
   #  url: /publications/
-
+  
+  - title: "My Blogs"
+    url: https://www.blogger.com/profile/07868688056299811362
+    
+  - title: "simply2say"
+    url: https://www.youtube.com/channel/UCiwhQtyilBl-TM-uvWrsi_g
   # - title: "Talks"
   #  url: /talks/    
 

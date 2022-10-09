@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a faculty member with the Department of Technical Education, Government of Kerala, India. Currently,I teach at the College of Enineering Trivandrum.
+I am a faculty member with the Department of Technical Education, Government of Kerala, India. Currently, I teach at the College of Enineering Trivandrum.
 

@@ -103,18 +103,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5935-2794"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/6143425/joaquim"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "https://www.youtube.com/channel/UCiwhQtyilBl-TM-uvWrsi_g"
+  wikipedia        : 
 
 
 # Reading Files

@@ -11,10 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Master of Technology in Biomedical Engineering, [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), 2010
+- Bachelor of Technology in Electronics and Communication Engineering, [Mahatma Gandhi University](https://www.mgu.ac.in/) 2001
 
+Experience
+======
+- Assistant Professor [Department of Technical Education Kerala, India](http://www.dtekerala.gov.in/index.php/en/) 2005 June - Present
+  - [College of Engineering Trivandrum](http://ece.cet.ac.in/)  2010 - Present
+  - [Government Engineering College Thrissur](https://gectcr.ac.in/)  2008 - 2010
+  - [Government Engineering College Idukki](https://www.gecidukki.ac.in/) 2005 - 2008
+- Lecturer  [Viswajyothi College of Engineering and Technology](https://vjcet.org/#/) 2003 - 2005
+- Adhoc Lecturer [Model Engineering College](https://www.mec.ac.in/) 2002 - 2003
+
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +66,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+---!>
+test

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 - Master of Technology in Biomedical Engineering, [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), 2010
-- Bachelor of Technology in Electronics and Communication Engineering, [Mahatma Gandhi University](https://www.mgu.ac.in/) 2001
+- Bachelor of Technology in Electronics and Communication Engineering, [Mahatma Gandhi University](https://www.mgu.ac.in/), 2001
 
 Experience
 ======
@@ -21,7 +21,7 @@ Experience
 - Lecturer  [Viswajyothi College of Engineering and Technology](https://vjcet.org/#/) 2003 - 2005
 - Adhoc Lecturer [Model Engineering College](https://www.mec.ac.in/) 2002 - 2003
 
-<!---
+<>
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -64,4 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
----!>
+<>

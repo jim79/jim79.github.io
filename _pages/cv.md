@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-- Assistant Professor [Department of Technical Education Kerala, India](http://www.dtekerala.gov.in/index.php/en/) 2005 June - Present
+- Assistant Professor [Department of Technical Education Kerala, India](http://www.dtekerala.gov.in/index.php/en/) 2005 - Present
   * Currently working at [College of Engineering Trivandrum](http://ece.cet.ac.in/)  
 - Lecturer  [Viswajyothi College of Engineering and Technology](https://vjcet.org/#/) 2003 - 2005
 - Adhoc Lecturer [Model Engineering College](https://www.mec.ac.in/) 2002 - 2003

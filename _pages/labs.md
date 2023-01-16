@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "labs"
+title: "lab resources"
 permalink: /labs/
 author_profile: true
 redirect_from:

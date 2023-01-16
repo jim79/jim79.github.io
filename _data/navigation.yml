@@ -12,8 +12,8 @@ main:
  - title: "Lecture handouts"
    url: /handouts/
 
-  - title: "Lab resources"
-    url: /labs/
+ - title: "Lab resources"
+   url: /labs/
    
 
  - title: "My blogs"

@@ -12,6 +12,10 @@ main:
  - title: "Lecture handouts"
    url: /handouts/
 
+  - title: "Labs"
+   url: /labs/
+   
+
  - title: "My blogs"
    url: /blogs/
    

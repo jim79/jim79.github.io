@@ -9,10 +9,10 @@ main:
 #  - title: "Publications"
 #    url: /publications/  
 
- - title: "lecture handouts"
+ - title: "Lecture handouts"
    url: /handouts/
 
- - title: "my blogs"
+ - title: "My blogs"
    url: /blogs/
    
  # - title: "Talks"

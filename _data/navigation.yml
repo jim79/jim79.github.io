@@ -3,11 +3,14 @@ main:
  - title: "About me"
    url: /cv/ 
    
- - title: "Teaching"
-   url: /teaching/ 
+#  - title: "Teaching"
+#    url: /teaching/ 
    
 #  - title: "Publications"
 #    url: /publications/  
+
+# - title: "lecture handouts"
+#   url: /handouts
    
  # - title: "Talks"
  #  url: /talks/     

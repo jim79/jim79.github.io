@@ -9,15 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-#### Lecture Handouts
-
-#### AET 303 - Industrial Instrumentation (KTU 2019 Scheme)
+## AET 303 - Industrial Instrumentation (KTU 2019 Scheme)
 ### <a href="https://drive.google.com/drive/folders/1pKj_2ssuMK_EeeX2GtNiiGK97HKVhnXh?usp=sharing">Industrial Instrumentation</a>
 
-
-#### HUT 200 - Professional Ethics (KTU 2019 Scheme)
+## HUT 200 - Professional Ethics (KTU 2019 Scheme)
 ### <a href="https://drive.google.com/drive/folders/1bOCugqzfWbGB6A4IMUMeK6fsiE_saxXX?usp=sharing">Professional Ethics</a>
 
-
-#### MCN 202 - Constitution of India (KTU 2019 Scheme)
+## MCN 202 - Constitution of India (KTU 2019 Scheme)
 ### <a href="https://drive.google.com/drive/folders/1FCFZDrUUmuApVHrfg0Zy-II5xQcJKNhw?usp=sharing">Constitution of India</a>

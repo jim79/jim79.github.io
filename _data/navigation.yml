@@ -11,6 +11,9 @@ main:
 
  - title: "lecture handouts"
    url: /handouts/
+
+ - title: "my blogs"
+   url: /blogs/
    
  # - title: "Talks"
  #  url: /talks/     

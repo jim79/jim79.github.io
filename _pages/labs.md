@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## 221LIA001 - Robotics lab (M1 Robotics & Automation
+## 221LIA001 - Robotics lab (M1 Robotics & Automation)
 
-### <a href="https://jim-cet.github.io/">221LIA001 - Robotics lab (M1 Robotics & Automation</a>
+### <a href="https://jim-cet.github.io/">Web resources</a>
 
-### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Robotics lab course project report format</a>
+### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
+
+### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>
 
 ## ECL204 - Microcontroller Lab
 Any of the IDE's below can be used to simulate and study 8051 assembly language/C programming.

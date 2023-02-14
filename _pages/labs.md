@@ -15,7 +15,7 @@ redirect_from:
 
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Robotics lab course project report format</a>
 
-## ECL204 -Microcontroller Lab
+## ECL204 - Microcontroller Lab
 Any of the IDE's below can be used to simulate and study 8051 assembly language/C programming.
 
 ### MCU 8051 IDE 

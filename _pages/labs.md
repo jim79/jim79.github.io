@@ -19,7 +19,7 @@ redirect_from:
 Any of the IDE's below can be used to simulate and study 8051 assembly language/C programming.
 
 ### MCU 8051 IDE 
-Do use MCU 8051 IDE On Windows PC's you would need to install MCU 8051 IDE and SDCC (Small Device C Compiler)
+To use MCU 8051 IDE On Windows PC's you would need to install MCU 8051 IDE and SDCC (Small Device C Compiler)
 
 * Download and install SDCC on your PC from <a href="https://sourceforge.net/projects/sdcc/files/"> SDCC download </a>
 * Download and install  MCU 8051 IDE on your PC from <a href="https://sourceforge.net/projects/mcu8051ide/files/mcu8051ide/1.4.9/"> MCU 8051 IDE download </a>

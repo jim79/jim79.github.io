@@ -29,4 +29,4 @@ To use MCU 8051 IDE On Windows PC's you would need to install MCU 8051 IDE and S
 Fillup the form on this link to <a href="https://www.keil.com/demo/eval/c51.htm"> download µVision IDE </a>
 
 ### 8051 Instruction set
-### <a href="hhttps://drive.google.com/file/d/1QQGD9J1xgiAGY_bi_I7OzhoyaU9Ci4ew/view?usp=sharing">8051 Instruction set</a>
+### <a href="https://drive.google.com/drive/folders/1riqa7Yt73QqLvWT0ggAjm6fTfvEIiyxk?usp=sharing">8051 Instruction set</a>

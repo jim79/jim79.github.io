@@ -14,7 +14,8 @@ redirect_from:
 <!-- ### <a href="https://jim-cet.github.io/">Web resources</a> -->
 
 <!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
-### <a href="lab-work.md">Attainment Calculation Excel files</a>
+
+### <a href="./lab-work.md">Lab work</a>
 
 ### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>

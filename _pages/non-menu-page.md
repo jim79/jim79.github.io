@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /non-menu-page2/
 title: "Page not in menu"
 excerpt: "This is a page not in the main menu"
 author_profile: true

@@ -1,3 +1,13 @@
+---
+permalink: /non-menu-page/
+title: "Robotics lab work"
+excerpt: "This is a page not in th emain menu"
+author_profile: true
+redirect_from: 
+  - "/robotics-lab-work/"
+  - "/nmp.html"
+---
+
 # Lab work
 
 ### 18/09/23

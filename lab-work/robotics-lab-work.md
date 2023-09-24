@@ -5,7 +5,6 @@ excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/labs/robotics-lab-work/"
-  - "/nmp.html"
 ---
 ### lab 1 : 18/09/23
 - Ubuntu 20.04 LTS installation

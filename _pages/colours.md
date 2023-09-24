@@ -7,8 +7,6 @@ redirect_from:
 #   - "/colours/"
 ---
 
-# colours
-
 - *RED*
 - *BLUE*
 - *GREEN*

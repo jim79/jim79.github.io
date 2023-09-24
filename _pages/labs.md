@@ -15,7 +15,7 @@ redirect_from:
 
 <!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
 
-### <a href="/lab-work/robotics-lab-work.md">Lab work</a>
+### <a href="robotics-lab-work">Lab work</a>
 
 ### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>

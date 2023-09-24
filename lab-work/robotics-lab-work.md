@@ -7,7 +7,6 @@ redirect_from:
   - "/labs/robotics-lab-work/"
   - "/nmp.html"
 ---
-
 ### lab 1 : 18/09/23
 - Ubuntu 20.04 LTS installation
     - [Ubuntu desktop install](https://ubuntu.com/tutorials/install-ubuntu-desktop)
@@ -16,3 +15,9 @@ redirect_from:
         -[Ubuntu command line tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
     - Linux File System/Structure Explained
         -[Linux File System/Structure Explained](https://youtu.be/HbgzrKJvDRw)
+
+### lab 2 : 25/09/23
+- Completing ROS installation and remaining tasks from lab 1
+- ROS basics
+- Creating catkin workspace
+- 

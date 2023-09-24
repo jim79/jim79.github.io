@@ -9,12 +9,13 @@ redirect_from:
 
 # colours
 
-*RED*
-*BLUE*
-*GREEN*
-*ORANGE*
-*BLACK*
-*BROWN*
-*YELLOW*
+- *RED*
+- *BLUE*
+- *GREEN*
+- *ORANGE*
+- *BLACK*
+- *BROWN*
+- *YELLOW*
+- *PINK*
 
 

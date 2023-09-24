@@ -14,7 +14,7 @@ redirect_from:
     - Basic commands
         -[Ubuntu command line tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
     - Linux File System/Structure Explained
-        -[Linux File System/Structure Explained](https://youtu.be/HbgzrKJvDRw)
+        -[Linux File System/Structure](https://youtu.be/HbgzrKJvDRw)
 
 ### lab 2 : 25/09/23
 - Completing ROS installation and remaining tasks from lab 1

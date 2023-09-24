@@ -1,19 +1,18 @@
 ---
 permalink: /non-menu-page/
 title: "Robotics lab work"
-excerpt: "This is a page not in th emain menu"
+excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/labs/robotics-lab-work/"
   - "/nmp.html"
 ---
 
-# Lab work
-
-### 18/09/23
+### lab 1 : 18/09/23
 - Ubuntu 20.04 LTS installation
+    - [Ubuntu desktop install](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 - Ubuntu/Linux basics
     - Basic commands
-     <!-- <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">Ubuntu command line tutorial</a> -->
-     [Ubuntu command line tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-    - test
+        -[Ubuntu command line tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+    - Linux File System/Structure Explained
+        -[Linux File System/Structure Explained](https://youtu.be/HbgzrKJvDRw)

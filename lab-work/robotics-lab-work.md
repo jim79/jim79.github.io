@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /robotics-lab-work/
 title: "Robotics lab work"
 excerpt: "This is a page not in the main menu"
 author_profile: true

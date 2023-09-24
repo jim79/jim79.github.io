@@ -4,7 +4,7 @@ title: "Robotics lab work"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
-  - "/robotics-lab-work/"
+  - "/labs/robotics-lab-work/"
   - "/nmp.html"
 ---
 

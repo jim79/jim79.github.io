@@ -23,7 +23,7 @@ redirect_from:
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
 
-### preparatory work to be comleted by all students before lab 3 
+### preparatory work to be completed by all students before lab 3 
 - Python basics 
     -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
         - Complete the modules on PyFlo uptill and including *Guided Project 3*

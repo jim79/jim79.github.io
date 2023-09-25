@@ -18,5 +18,7 @@ redirect_from:
 ### lab 2 : 25/09/23
 - Completing ROS installation and remaining tasks from lab 1
 - ROS basics
-- Creating catkin workspace
-- 
+- Setting up ROS environment on your PC
+    -[Setting up ROS environment on your PC](https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+- Navigating the ROS Filesystem
+    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 

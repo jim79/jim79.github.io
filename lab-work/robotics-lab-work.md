@@ -22,3 +22,12 @@ redirect_from:
     -[Setting up ROS environment on your PC](https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
+
+### preparatory work to be done before lab 3 
+- Python basics 
+    -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
+        - Complete all modules on PyFlo uptill and including *Guided Project 3*
+- ROS crash tutorial by Edouard Renard
+    -[ROS crash course by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
+        - Follow this crash course and try to complete the tasks atleast till tutorial 6
+        

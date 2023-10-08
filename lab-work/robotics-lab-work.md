@@ -34,7 +34,11 @@ redirect_from:
 ### lab 3 : 9/10/23
 - Understanding ROS Nodes
     -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
-    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun \
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
 - Understanding ROS Topics
     -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
     -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
+- Simple Publisher and Subscriber
+    -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)\
+    -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber)
+]

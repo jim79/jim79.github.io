@@ -38,7 +38,8 @@ redirect_from:
 - Understanding ROS Topics
     -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
     -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
-- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy
-    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
+- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy\
+    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)\
+- Simple Publisher and Subscriber
     -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)\
     -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber)

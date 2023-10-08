@@ -25,8 +25,16 @@ redirect_from:
 
 ### preparatory work to be completed by all students before lab 3 
 - Python basics 
-    -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
+    -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)\
         - Complete the modules on PyFlo uptill and including *Guided Project 3*
-- ROS crash tutorial by Edouard Renard
-    -[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
+- ROS crash tutorial by Edouard Renard \
+    -[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
         - Follow this crash course and try to complete the tasks atleast till tutorial 6
+
+### lab 3 : 9/10/23
+- Understanding ROS Nodes
+    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun \
+- Understanding ROS Topics
+    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+    -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)

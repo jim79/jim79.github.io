@@ -7,7 +7,7 @@ redirect_from:
   - "/labs/robotics-lab-work/simple_subscriber"
 ---
 ## A ROS subsriber node line by line commented
-```
+```python
 #!/usr/bin/env python    # shebang 
 
 import rospy # import rospy

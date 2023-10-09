@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## A ROS publisher node - line by line commented
-```
+```python
 #!/usr/bin/env python    # shebang 
 
 import rospy # import rospy

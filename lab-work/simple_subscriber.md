@@ -7,6 +7,7 @@ redirect_from:
   - "/labs/robotics-lab-work/simple_subscriber"
 ---
 ## A ROS subsriber node line by line commented
+<h1>
 ```python
 #!/usr/bin/env python    # shebang 
 
@@ -34,3 +35,4 @@ if __name__=='__main__': # ensures that the code runs only when its is executed 
 
     lab_subscriber1() # call the subscriber function
 ```
+<h6>

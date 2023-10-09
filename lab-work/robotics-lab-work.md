@@ -42,6 +42,6 @@ redirect_from:
     -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
 - Simple Publisher and Subscriber \
     -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
-    -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) 
-    -[A ROS publisher node - line by line commented](./simple_publisher.md)
+    -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
+    -[A ROS publisher node - line by line commented](./simple_publisher.md) \
     -[A ROS subsriber node line by line commented](./simple_subscriber.md)

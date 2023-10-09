@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## A ROS publisher node - line by line commented
-
+```
 #!/usr/bin/env python    # shebang 
 
 import rospy # import rospy
@@ -49,3 +49,4 @@ if __name__=='__main__':
         # one interrupt in our case is keyboard interrupt ctrl + c
         
         pass # just exit 
+```

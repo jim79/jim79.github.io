@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## A ROS subsriber node line by line commented
 ```python
+
 #!/usr/bin/env python    # shebang 
 
 import rospy # import rospy
@@ -33,4 +34,5 @@ def lab_subscriber1(): # subscriber function
 if __name__=='__main__': # ensures that the code runs only when its is executed as script
 
     lab_subscriber1() # call the subscriber function
+    
 ```

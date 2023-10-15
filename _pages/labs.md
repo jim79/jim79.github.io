@@ -26,6 +26,7 @@ redirect_from:
 EDA playground allows you to edit, save, simulate, synthesize Verilog, VHDL and other HDLs from your **web browser**
 
 ### ModelSim
+ModelSim is a can be installed on PC (Windows/Linux) to simulate Verilog HDL or VHDL code
 - [Download ModelSim](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html?) 
 - Getting started with ModelSim \
     -[Addition operation video demo](https://youtu.be/qUkKXeEQbi4?si=rXKSEMNQe_fNAICb)

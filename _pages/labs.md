@@ -20,6 +20,11 @@ redirect_from:
 ### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>
 
+## ECL203 - Logic Design Lab
+- [Download ModelSim](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html?) \
+- [Getting started with ModelSim] \
+    -[Addition operation](https://youtu.be/qUkKXeEQbi4?si=rXKSEMNQe_fNAICb)
+
 ## ECL204 - Microcontroller Lab
 
 ### 8051 simulation IDE's

@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">ECT 203 - Logic Circuit Design</a>
 
 ### <a href="https://drive.google.com/drive/folders/1pKj_2ssuMK_EeeX2GtNiiGK97HKVhnXh?usp=sharing">AET 303 - Industrial Instrumentation</a>
 
@@ -19,5 +20,5 @@ redirect_from:
   - ### <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing">ECT 206 - Course Project Report Template</a>
   - ### <a href="https://youtu.be/qXQLVl0ZJ-A">Latex Crash Course</a>
 
-### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">ECT 203 - Logic Circuit Design</a>
+
 

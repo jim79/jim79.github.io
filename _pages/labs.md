@@ -21,9 +21,15 @@ redirect_from:
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>
 
 ## ECL203 - Logic Design Lab
-- [Download ModelSim](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html?) \
-- [Getting started with ModelSim] \
+### EDA Playground
+[EDA playground](https://www.edaplayground.com/) \
+EDA playgound allows you to edit, save, simulate, synthesize Verilog, VHDL and other HDLs from your **web browser**
+
+### ModelSim
+- [Download ModelSim](https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html?) 
+- Getting started with ModelSim \
     -[Addition operation](https://youtu.be/qUkKXeEQbi4?si=rXKSEMNQe_fNAICb)
+
 
 ## ECL204 - Microcontroller Lab
 

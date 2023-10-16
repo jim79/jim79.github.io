@@ -24,6 +24,8 @@ redirect_from:
 ### EDA Playground
 [EDA playground](https://www.edaplayground.com/) \
 EDA playground allows you to edit, save, simulate, synthesize Verilog, VHDL and other HDLs from your **web browser**
+- Getting started with EDA Playground \
+-[Addition operation video demo](https://youtu.be/81TC65_-MnI)
 
 ### ModelSim
 ModelSim is a can be installed on PC (Windows/Linux) to simulate Verilog HDL or VHDL code

@@ -51,4 +51,4 @@ redirect_from:
     -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
     -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
     -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
-- #### Assignment 1 : Due 26/10/23
+- # Assignment 1 : Due 26/10/23

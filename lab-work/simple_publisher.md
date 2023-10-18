@@ -5,6 +5,7 @@ excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/labs/robotics-lab-work/simple_publisher"
+fontsize: 24pt
 ---
 
 ## A ROS publisher node - line by line commented

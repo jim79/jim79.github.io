@@ -1,11 +1,11 @@
----
+<!-- ---
 permalink: /robotics-lab-work/simple_publisher
 title: "Robotics lab work"
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
   - "/labs/robotics-lab-work/simple_publisher"
----
+--- -->
 
 ## A ROS publisher node - line by line commented
 ```python

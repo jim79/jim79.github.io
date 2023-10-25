@@ -55,6 +55,6 @@ redirect_from:
 - ### 24/10/23 : Assignment 2 : Posted in GitHub classroom. Due on 01/11/23, 2.00 p.m.
 - ### 25/10/23 : Creating a Custom ROS Message 
     - [Creating a Custom ROS Message (Video tutorial)](https://youtu.be/8paLh2kklJo?si=HRi1JlB6B-lP2SKN)
-<!-- - Service and Client nodes \
-    - [Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29)
-    - [Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) -->
+<!-- - Service and Client nodes \ -->
+    <!-- - [Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) -->
+    <!-- - [Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) -->

@@ -43,8 +43,8 @@ redirect_from:
 - Simple Publisher and Subscriber \
     -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
     -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
-    -[A ROS publisher node - line by line commented](./simple_publisher.md) \
-    -[A ROS subsriber node line by line commented](./simple_subscriber.md)
+    -[A ROS publisher node - line by line commented](https://drive.google.com/file/d/1o_lco9381vvnrU7JJ3yNdNtaM9gThMUJ/view?usp=sharing) \
+    -[A ROS subsriber node line by line commented](https://drive.google.com/file/d/1qp_ia2wvsR_FFrSJIz1QmI-mqkge7547/view?usp=sharing)
 
 ### Preparatory work to be completed by all students before lab 4
 -  GitHub fundamentals \

@@ -23,7 +23,7 @@ redirect_from:
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
 
-### preparatory work to be completed by all students before lab 3 
+### Preparatory work to be completed by all students before lab 3 
 - Python basics \
     -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)\
         - Complete the modules on PyFlo uptill and including *Guided Project 3*
@@ -46,7 +46,7 @@ redirect_from:
     -[A ROS publisher node - line by line commented](./simple_publisher.md) \
     -[A ROS subsriber node line by line commented](./simple_subscriber.md)
 
-### preparatory work to be completed by all students before lab 4
+### Preparatory work to be completed by all students before lab 4
 -  GitHub fundamentals \
     -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
     -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \

@@ -51,7 +51,10 @@ redirect_from:
     -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
     -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
     -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
-- #### Assignment 1 : Posted in GitHub classroom. Due 26/10/23
-- Service and Client nodes \
+- ### 17/10/23 : Assignment 1 : Posted in GitHub classroom. Due on 26/10/23, 2.00 p.m.
+- ### 24/10/23 : Assignment 2 : Posted in GitHub classroom. Due on 01/11/23, 2.00 p.m.
+- ### 25/10/23 : Creating a Custom ROS Message 
+    - [Creating a Custom ROS Message (Video tutorial)](https://youtu.be/8paLh2kklJo?si=HRi1JlB6B-lP2SKN)
+<!-- - Service and Client nodes \
     - [Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29)
-    - [Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient)
+    - [Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) -->

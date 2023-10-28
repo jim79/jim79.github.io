@@ -65,5 +65,7 @@ redirect_from:
     -[Summary of changes to be made to CMakeLists.txt and package.xml](https://drive.google.com/file/d/1Y9vgTEqkxMyuBAlwpRrahAf45Wr_BUsm/view?usp=sharing)
 
 ### ROS Cheat sheets
--[ROS Noetic Cheat sheet](https://drive.google.com/file/d/1gzXz8cnPt5RkFKG0k8GlhVUFRh4p49OW/view?usp=sharing)(https://gomarketing.ottomotors.com/l/92812/2023-03-22/92z4ql/92812/1679526697SkoPBmzi/ROS_Cheat_Sheet_Noetic.pdf)
--[ROS cheat sheet](https://drive.google.com/file/d/1MmeQpeK1hb3gyFwAWWn3LSILsPPYwQoQ/view?usp=sharing)(https://courses.edx.org/assets/courseware/v1/83b19d128b084ebf43b778f572b14932/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/ROScheatsheet.pdf)
+-[ROS Noetic Cheat sheet](https://drive.google.com/file/d/1gzXz8cnPt5RkFKG0k8GlhVUFRh4p49OW/view?usp=sharing) \
+-[ROS cheat sheet](https://drive.google.com/file/d/1MmeQpeK1hb3gyFwAWWn3LSILsPPYwQoQ/view?usp=sharing) \
+[cheat sheet 1 source](https://gomarketing.ottomotors.com/l/92812/2023-03-22/92z4ql/92812/1679526697SkoPBmzi/ROS_Cheat_Sheet_Noetic.pdf) \
+[cheat sheet 2 source](https://courses.edx.org/assets/courseware/v1/83b19d128b084ebf43b778f572b14932/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/ROScheatsheet.pdf)

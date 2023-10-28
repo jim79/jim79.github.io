@@ -51,9 +51,9 @@ redirect_from:
     -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
     -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
     -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
-- ### 17/10/23 : Assignment 1 : Posted in GitHub classroom. Due on 26/10/23, 2.00 p.m.
-- ### 24/10/23 : Assignment 2 : Posted in GitHub classroom. Due on 01/11/23, 2.00 p.m.
-- ### 25/10/23 : Creating a Custom ROS Message 
+- #### 17/10/23 : Assignment 1 : Posted in GitHub classroom. Due on 26/10/23, 2.00 p.m.
+- #### 24/10/23 : Assignment 2 : Posted in GitHub classroom. Due on 01/11/23, 2.00 p.m.
+- #### 25/10/23 : Creating a Custom ROS Message 
     - [Creating a Custom ROS Message (Video tutorial)](https://youtu.be/8paLh2kklJo?si=HRi1JlB6B-lP2SKN)
 
 ### Lab 4 : 28/10/23

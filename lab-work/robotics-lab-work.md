@@ -56,14 +56,16 @@ redirect_from:
 - ### 25/10/23 : Creating a Custom ROS Message 
     - [Creating a Custom ROS Message (Video tutorial)](https://youtu.be/8paLh2kklJo?si=HRi1JlB6B-lP2SKN)
 
-### Lab 4 : 28/10/23
+### Lab 4 : 28/10/23 & 30/10/23
 - Service and Client nodes \
     -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
     -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
     -[Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) \
     -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
-    -[Summary of changes to be made to CMakeLists.txt and package.xml](https://drive.google.com/file/d/1Y9vgTEqkxMyuBAlwpRrahAf45Wr_BUsm/view?usp=sharing)
-
+    -[Summary of changes to be made to CMakeLists.txt and package.xml](https://drive.google.com/file/d/1Y9vgTEqkxMyuBAlwpRrahAf45Wr_BUsm/view?usp=sharing) \
+    -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
+    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+     
 ### ROS Cheat sheets
 -[ROS Noetic Cheat sheet](https://drive.google.com/file/d/1gzXz8cnPt5RkFKG0k8GlhVUFRh4p49OW/view?usp=sharing) \
 -[ROS cheat sheet](https://drive.google.com/file/d/1MmeQpeK1hb3gyFwAWWn3LSILsPPYwQoQ/view?usp=sharing) \

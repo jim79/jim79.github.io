@@ -64,10 +64,11 @@ redirect_from:
     -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
     -[Summary of changes to be made to CMakeLists.txt and package.xml](https://drive.google.com/file/d/1Y9vgTEqkxMyuBAlwpRrahAf45Wr_BUsm/view?usp=sharing) \
     -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
-    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) \
      
 ### ROS Cheat sheets
 -[ROS Noetic Cheat sheet](https://drive.google.com/file/d/1gzXz8cnPt5RkFKG0k8GlhVUFRh4p49OW/view?usp=sharing) \
 -[ROS cheat sheet](https://drive.google.com/file/d/1MmeQpeK1hb3gyFwAWWn3LSILsPPYwQoQ/view?usp=sharing) \
 [cheat sheet 1 source](https://gomarketing.ottomotors.com/l/92812/2023-03-22/92z4ql/92812/1679526697SkoPBmzi/ROS_Cheat_Sheet_Noetic.pdf) \
 [cheat sheet 2 source](https://courses.edx.org/assets/courseware/v1/83b19d128b084ebf43b778f572b14932/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/ROScheatsheet.pdf)
+### 01/11/23 : Assignment 3 : Posted in GitHub classroom. Due on 08/11/23, 2.00 p.m.

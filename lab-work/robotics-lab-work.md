@@ -72,3 +72,23 @@ redirect_from:
 [cheat sheet 1 source](https://gomarketing.ottomotors.com/l/92812/2023-03-22/92z4ql/92812/1679526697SkoPBmzi/ROS_Cheat_Sheet_Noetic.pdf) \
 [cheat sheet 2 source](https://courses.edx.org/assets/courseware/v1/83b19d128b084ebf43b778f572b14932/asset-v1:DelftX+ROS1x+1T2020+type@asset+block/ROScheatsheet.pdf)
 ### 01/11/23 : Assignment 3 : Posted in GitHub classroom. Due on 08/11/23, 2.00 p.m.
+
+### Extras
+#### shebang
+ ```#!/usr/bin/env python```
+line that you write at the beginning of the python script is called **shebang**\
+shebang indicates the path to the python interpreter. \
+Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bin/env python```
+[read more](https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755) 
+
+#### What does if __name__ == "__main__": do?
+[What does if __name__ == "__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
+
+### Lab 5 : 28/10/23
+- Launch files
+    -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) \
+    -[Launch files advanced topics - args, params, remap](https://youtu.be/0-zTU4_S6vY?si=OEzvyIl3sEIZxDgw)
+- URDF
+    -[How do we describe a robot? With URDF!](https://youtu.be/CwdbsvcpOHM?si=PnAr6AdEhopQSnq7) \
+    -[Create a visual model of a robot that you can view in Rviz](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch) \
+    <!-- -[Creating urdf model of a robot (Video demonstration)](https://youtu.be/-fMxgG1cPDA?si=9V84MQ9Tzgh1Xdjj) -->

@@ -85,7 +85,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 [What does if __name__ == "__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
 ### Lab 5 : 28/10/23
-- Launch files
+- Launch files \
     -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) \
     -[Launch files advanced topics - args, params, remap](https://youtu.be/0-zTU4_S6vY?si=OEzvyIl3sEIZxDgw)
 - URDF
@@ -94,7 +94,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
     
 
 ### Lab 6 : 13/10/23
-- Mobile robot URDF 
+- Mobile robot URDF \
     -[Creating urdf model of a robot (Video demonstration)](https://youtu.be/-fMxgG1cPDA?si=9V84MQ9Tzgh1Xdjj) \
     -[Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model) \
     -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \

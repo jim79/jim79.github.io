@@ -88,7 +88,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 - Launch files \
     -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) \
     -[Launch files advanced topics - args, params, remap](https://youtu.be/0-zTU4_S6vY?si=OEzvyIl3sEIZxDgw)
-- URDF
+- URDF \
     -[How do we describe a robot? With URDF!](https://youtu.be/CwdbsvcpOHM?si=PnAr6AdEhopQSnq7) \
     -[Create a visual model of a robot that you can view in Rviz](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch) \
     

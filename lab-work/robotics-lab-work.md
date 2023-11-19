@@ -103,9 +103,10 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 ### Lab 7 : 20/11/23
 - Gazebo \
 Gazebo is an open-source 3D robotics simulator
-    **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_ \
+    **Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_** \
     -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
-    -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) \
+    -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) 
+
     -Create a gazebo world for the mobile robot you built in lab 6 \
     [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world) 
 

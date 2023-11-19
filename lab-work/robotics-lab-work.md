@@ -108,7 +108,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
     -Create a gazebo world for the mobile robot you built in lab 6 \
     [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world) \
 
-    **Navigate your mobile robot in the gazebo world**
+    **Navigate your mobile robot in the gazebo world** \
     _To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below)_ \
     sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers \
     **Additional references**: \

@@ -99,3 +99,20 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
     -[Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model) \
     -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \
     -[ROS mobile robot URDF , Xacros with Meshes(Video demonstration)](https://youtu.be/yXFL5GWdvBE?si=XiqKn2PAhxOZAo6t)
+
+### Lab 7 : 18/10/23
+- Gazebo
+     **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_
+    -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
+    -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) \
+    -Create a gazebo world for the mobile robot you built in lab 6 \
+    [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world)
+    -Navigate your mobile robot in the gazebo world \
+    To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below) \\
+    ```
+    sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers
+    ```
+    **Additional references**: \
+    -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
+    -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
+

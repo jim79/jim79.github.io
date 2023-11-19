@@ -112,7 +112,7 @@ Gazebo is an open-source 3D robotics simulator \
 
     **Navigate your mobile robot in the gazebo world** \
     _To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below)_ \
-    sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers \
+    ```sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers``` \
     **Additional references**: \
     -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
     -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)

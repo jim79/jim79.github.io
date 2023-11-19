@@ -64,7 +64,7 @@ redirect_from:
     -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
     -[Summary of changes to be made to CMakeLists.txt and package.xml](https://drive.google.com/file/d/1Y9vgTEqkxMyuBAlwpRrahAf45Wr_BUsm/view?usp=sharing) \
     -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
-    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) \
+    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
      
 ### ROS Cheat sheets
 -[ROS Noetic Cheat sheet](https://drive.google.com/file/d/1gzXz8cnPt5RkFKG0k8GlhVUFRh4p49OW/view?usp=sharing) \
@@ -102,7 +102,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 
 ### Lab 7 : 20/11/23
 - Gazebo \
-     **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_ \
+    **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_ \
     -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
     -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) \
     -Create a gazebo world for the mobile robot you built in lab 6 \
@@ -114,4 +114,10 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
     **Additional references**: \
     -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
     -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
-
+- MoveIt \
+MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
+-[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
+-[MoveIt tutorials](https://ros-planning.github.io/moveit_tutorials/index.html) \
+-[Getting started with MoveIt](https://ros-planning.github.io/moveit_tutorials/doc/getting_started/getting_started.html) \
+-[MoveIt Quickstart in RViz](https://ros-planning.github.io/moveit_tutorials/doc/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) \
+-[MoveGroup](https://ros-planning.github.io/moveit_tutorials/index.html#movegroup-ros-wrappers-in-c-and-python)

@@ -102,13 +102,13 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 
 ### Lab 7 : 18/10/23
 - Gazebo \
-     **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_
+     **IMPORTANT** Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_ \
     -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
     -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) \
     -Create a gazebo world for the mobile robot you built in lab 6 \
-    [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world)
+    [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world) \
     -Navigate your mobile robot in the gazebo world \
-    To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below) \\
+    To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below) \
     ```
     sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers
     ```

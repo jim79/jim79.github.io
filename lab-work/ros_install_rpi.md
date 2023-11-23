@@ -4,7 +4,7 @@ title: "Installing ROS Noetic on Raspberry Pi 3/4"
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
-  - "/labs/Installing ROS Noetic on Raspberry Pi 3/4/"
+  - "/labs/ros-install-rpi"
 ---
 Installing ROS Noetic on Raspberry Pi 3/4
 =========================================

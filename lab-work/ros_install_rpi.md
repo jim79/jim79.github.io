@@ -10,7 +10,7 @@ To allow ROS to run smoothly on resource limited Raspberry Pi 3, we shall instal
 
 ### Installing Raspberry Pi OS lite on Raspberry Pi 
 1. Download the Debian Buster image from the link 
-[Download the Debian Buster image](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-05-28/) \
+[Download the Debian Buster image](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-05-28/) 
 2. Unzip the file _2021-05-07-raspios-buster-arm64-lite.zip_ 
 3. Flash the OS image file (unzipped in step 2) _2021-05-07-raspios-buster-arm64-lite.img_ to SD card \
 The easiest way to do this would be to use [Raspberry Pi Imager](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/) \
@@ -23,7 +23,7 @@ and ```sudo apt-get dist-upgrade```
 ### 2.Debian install of ROS Noetic 
 Follow the steps given on ROS wiki link below \
 [Debian install of ROS Noetic](https://wiki.ros.org/noetic/Installation/Debian) \
-**Step 1.1 on the ROS wiki page above may be skipped** \
+**Step 1.1 on the ROS wiki page above may be skipped** 
 
 **We shall install ROS-Base on Raspberry Pi** \
 ROS-Base: (Bare Bones) ROS packaging, build, and communication libraries. No GUI tools. \

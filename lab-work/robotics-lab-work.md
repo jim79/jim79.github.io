@@ -125,6 +125,6 @@ MoveIt is an open-source robotic manipulation platform that allows you to develo
 -[MoveGroup](https://ros-planning.github.io/moveit_tutorials/index.html#movegroup-ros-wrappers-in-c-and-python)
 
 ### Secure Shell protocol (SSH)
--[SSH crash video tutorial](https://youtu.be/v45p_kJV9i4?si=dA238EWHt2v2mq4W)
--[Install SSH client in Windows 10](https://youtu.be/JbMgOKlj5fE?si=QPKwaJHyvE0fhmLi)
+-[SSH crash video tutorial](https://youtu.be/v45p_kJV9i4?si=dA238EWHt2v2mq4W) \
+-[Install SSH client in Windows 10](https://youtu.be/JbMgOKlj5fE?si=QPKwaJHyvE0fhmLi) \
 -[Secure copy command](https://youtu.be/2u0I-U0D7Uk?si=rpJq4tqP_MVN9y6Z)

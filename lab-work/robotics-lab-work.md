@@ -100,7 +100,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
     -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \
     -[ROS mobile robot URDF , Xacros with Meshes(Video demonstration)](https://youtu.be/yXFL5GWdvBE?si=XiqKn2PAhxOZAo6t)
 
-### Lab 7 : 20/11/23
+### Lab 7 : 20/11/23 & 27/11/23
 - Gazebo \
 Gazebo is an open-source 3D robotics simulator \
     **Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_** \
@@ -123,3 +123,8 @@ MoveIt is an open-source robotic manipulation platform that allows you to develo
 -[Getting started with MoveIt](https://ros-planning.github.io/moveit_tutorials/doc/getting_started/getting_started.html) \
 -[MoveIt Quickstart in RViz](https://ros-planning.github.io/moveit_tutorials/doc/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) \
 -[MoveGroup](https://ros-planning.github.io/moveit_tutorials/index.html#movegroup-ros-wrappers-in-c-and-python)
+
+### Secure Shell protocol (SSH)
+-[SSH crash video tutorial](https://youtu.be/v45p_kJV9i4?si=dA238EWHt2v2mq4W)
+-[Install SSH client in Windows 10](https://youtu.be/JbMgOKlj5fE?si=QPKwaJHyvE0fhmLi)
+-[Secure copy command](https://youtu.be/2u0I-U0D7Uk?si=rpJq4tqP_MVN9y6Z)

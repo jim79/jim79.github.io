@@ -26,7 +26,7 @@ Follow the steps given on ROS wiki link below \
 **Step 1.1 on the ROS wiki page above may be skipped** 
 
 **We shall install ROS-Base on Raspberry Pi** \
-ROS-Base: (Bare Bones) ROS packaging, build, and communication libraries. No GUI tools. \
+ROS-Base: (Bare Bones) ROS packaging, build, and communication libraries. No GUI tools. 
 
 ```sudo apt install ros-noetic-ros-base```
 

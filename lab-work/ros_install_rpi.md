@@ -44,6 +44,7 @@ Before you can use many ROS tools, you will need to initialize rosdep. rosdep en
 ```sudo apt install python3-rosdep``` \
 With the following, you can initialize rosdep. \
 ```sudo rosdep init```
+
 ```rosdep update```
 
 ### 5. Environment setup

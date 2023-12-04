@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 ### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">ECT 203 - Logic Circuit Design</a>
 
+### <a href="https://drive.google.com/drive/folders/1mXGNjpVYCmGgFpBIZGao9CtsPyldLHp9?usp=sharing">B.Tech. Seminar Report template</a>
+
 ### <a href="https://drive.google.com/drive/folders/1pKj_2ssuMK_EeeX2GtNiiGK97HKVhnXh?usp=sharing">AET 303 - Industrial Instrumentation</a>
 
 ### <a href="https://drive.google.com/drive/folders/1bOCugqzfWbGB6A4IMUMeK6fsiE_saxXX?usp=sharing">HUT 200 - Professional Ethics</a>

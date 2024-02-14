@@ -22,6 +22,6 @@ redirect_from:
   - ### <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing">ECT 206 - Course Project Report Template</a>
   - ### <a href="https://youtu.be/qXQLVl0ZJ-A">Latex Crash Course</a>
 
-### <a href="https://drive.google.com/drive/folders/1C-o7xpS_64cSE2uZLh-uymvrTE7SzW0F?usp=sharing">AET 372 Internet of Things</a>
+### <a href="https://drive.google.com/drive/folders/1C-o7xpS_64cSE2uZLh-uymvrTE7SzW0F?usp=sharing">AET 372 - Internet of Things</a>
 
 

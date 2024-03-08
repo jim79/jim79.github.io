@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing">ECT 206 - Course Project Report Template</a>
+### <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing">ECT 206 - Course Project Report template</a>
 
 ### <a href="https://drive.google.com/drive/folders/1mXGNjpVYCmGgFpBIZGao9CtsPyldLHp9?usp=sharing">B.Tech. Seminar Report template</a>
 

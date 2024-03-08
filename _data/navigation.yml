@@ -14,8 +14,10 @@ main:
 
  - title: "Lab resources"
    url: /labs/
-   
 
+ - title: "Report templates"
+   url: /templates/
+   
  - title: "My blogs"
    url: /blogs/
    

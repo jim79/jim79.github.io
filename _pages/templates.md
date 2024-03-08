@@ -11,7 +11,7 @@ redirect_from:
 
 ### <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing"> Course Project Report template</a>
 
-### <a href="https://drive.google.com/drive/folders/1mXGNjpVYCmGgFpBIZGao9CtsPyldLHp9?usp=sharing">B.Tech. Seminar Report template</a>
+### <a href="https://www.overleaf.com/latex/templates/ktu-btech-seminar-report-template/xqfbbgzyczmp">B.Tech. Seminar Report template</a>
 
 ### <a href="https://www.overleaf.com/latex/templates/ktu-btech-project-report-template/dnnwgbfvnrtx">B.Tech.Project Report template</a>
 

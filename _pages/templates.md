@@ -17,7 +17,7 @@ redirect_from:
 
 ### <a href="https://drive.google.com/drive/folders/1WpcgLpL-9hkB7Apwu81zz_ElpaLXATVn?usp=sharing">Literature survey beamer template</a>
 
-### <button><a href="https://youtu.be/qXQLVl0ZJ-A">Latex Crash Course (Video)</a></button>
+### <a href="https://youtu.be/qXQLVl0ZJ-A">Latex Crash Course (Video)</a>
 
 ### <a href="https://youtu.be/KzKJylYyTdg?si=NAomAiU-uY4K9TQ9">Generate BibTeX file easily (Video)</a>
 

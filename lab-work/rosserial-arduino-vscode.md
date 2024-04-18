@@ -1,0 +1,46 @@
+---
+permalink: /rosserial-arduino-vscode/
+title: "Configure VS Code for rosserial_arduino on Linux"
+excerpt: "This is a page not in the main menu"
+author_profile: true
+redirect_from: 
+  - "/labs/rosserial-arduino-vscode"
+---
+
+### Configure VS Code for rosserial_arduino on Linux
+ The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configre the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
+
+1. Install platformio extension from VS code extensions
+
+In case of the latformio installation error *PlatformIO IDE can't find Python interpreter on Linux* install python3-venv
+```sudo apt install python3-venv```
+2. Once the platformio extension is installed, create a new project in platformio vscode 
+- give a project name 
+- select the board     // search for *uno*
+- select a project location
+
+3. Platformio automatically detects the USB port to which Arduino board is connect to the PC. In case, it does not, follow these steps
+a) Run the command ```ls /dev/tty* ``` in a terminal
+b) USB port would be listed as /dev/ttyUSB*
+c) Edit the *platformio.ini* file within the project folder
+	- Add the line
+    *monitor_port* *= /dev/ttyUSB0*  // if the step b lists the port as /dev/ttyUSB0
+
+4. Build *ros_lib* library in the project folder
+ Right click on it in visual studio code and select “Open in Integrated Terminal”. This will open the directory in a terminal within Visual Studio Code.  Within the terminal window you just opened, run the following command:
+
+```rosrun rosserial_arduino make_libraries.py . ``` // please note the . at the end; this would create *ros_lib* library in the *lib* folder itself.
+
+This will build the ros_lib library in your project. Once this is finished we can move on to using our test script for out microcontroller.
+
+5. Write the script to be downloaded to Arduino in the project name/src/main.cpp
+
+6. Build the project and upload it to the Arduino board
+
+in case of the following error while uploading the code to the Arduino board, follow the solutions in the links given below.
+
+*avrdude stk500_recv() programmer is not responding*
+
+[99-platformio-udev.rules](https://docs.platformio.org/en/latest/core/installation/udev-rules.html)
+[platformio-arduino-error message](https://techoverflow.net/2021/11/11/how-i-fixed-platformio-arduino/)
+

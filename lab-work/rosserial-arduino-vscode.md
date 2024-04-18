@@ -1,6 +1,6 @@
 ---
 permalink: /rosserial-arduino-vscode/
-title: "Configure VS Code for rosserial_arduino on Linux"
+title: "Configure VS Code for rosserial_arduino"
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 

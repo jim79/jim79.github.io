@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Configure VS Code for rosserial_arduino on Linux
- The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configre the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
+ The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configure the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
 
 1. Install platformio extension from VS code extensions
 
@@ -24,12 +24,12 @@ a) Run the command ```ls /dev/tty* ``` in a terminal
 b) USB port would be listed as /dev/ttyUSB*
 c) Edit the *platformio.ini* file within the project folder
 	- Add the line
-    *monitor_port* *= /dev/ttyUSB0*  // if the step b lists the port as /dev/ttyUSB0
+    *monitor_port* *= /dev/ttyUSB0*               // if the step b lists the port as /dev/ttyUSB0
 
 4. Build *ros_lib* library in the project folder
  Right click on it in visual studio code and select “Open in Integrated Terminal”. This will open the directory in a terminal within Visual Studio Code.  Within the terminal window you just opened, run the following command:
 
-```rosrun rosserial_arduino make_libraries.py . ``` // please note the . at the end; this would create *ros_lib* library in the *lib* folder itself.
+```rosrun rosserial_arduino make_libraries.py . ```           // please note the . at the end; this would create *ros_lib* library in the *lib* folder itself.
 
 This will build the ros_lib library in your project. Once this is finished we can move on to using our test script for out microcontroller.
 
@@ -41,6 +41,6 @@ in case of the following error while uploading the code to the Arduino board, fo
 
 *avrdude stk500_recv() programmer is not responding*
 
-[99-platformio-udev.rules](https://docs.platformio.org/en/latest/core/installation/udev-rules.html)
+[99-platformio-udev.rules](https://docs.platformio.org/en/latest/core/installation/udev-rules.html) \\
 [platformio-arduino-error message](https://techoverflow.net/2021/11/11/how-i-fixed-platformio-arduino/)
 

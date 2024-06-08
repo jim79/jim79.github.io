@@ -24,7 +24,7 @@ Git branches are a core feature of the Git version control system. They allow mu
 ```git merge branch name``` \
 ```git add .``` \
 ```git commit -m "commit message"``` \
-```git push``` \
+```git push``` 
 
 - Delete a branch on remote repo \
 ```git push origin --delete branch name```

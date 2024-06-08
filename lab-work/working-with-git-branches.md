@@ -11,33 +11,33 @@ Git branches are a core feature of the Git version control system. They allow mu
 
 ## Working with Git branches
 =========================
-- View branches in a project \\
+- View branches in a project \
 ```git branch -a```
 
-- Create a new branch and move to it \\
+- Create a new branch and move to it \
 ```git checkout -b branch name```
 
-- Move to a branch \\
+- Move to a branch \
 ```git checkout branch name```
 
-- Merging changes made in a branch with main \\
-```git checkout main``` \\
-```git merge branch name``` \\
-```git add .``` \\
-```git commit -m "commit message"``` \\
-```git push``` \\
+- Merging changes made in a branch with main \
+```git checkout main``` \
+```git merge branch name``` \
+```git add .``` \
+```git commit -m "commit message"``` \
+```git push``` \
 
-- Delete a branch on remote repo \\
+- Delete a branch on remote repo \
 ```git push origin --delete branch name```
 
-- Delete a branch with unmerged commits \\
+- Delete a branch with unmerged commits \
 ```git branch -D branch name```
 
-- Delete a branch locally \\
-    - checkout to another branch \\
+- Delete a branch locally \
+    - checkout to another branch \
 ```git branch --delete branch name```
 
-- Display the commit history of a Git repository \\
+- Display the commit history of a Git repository \
 ```git log --graph --oneline --decorate --all```
 
 <!-- # This command is long, so shorten it using aliases

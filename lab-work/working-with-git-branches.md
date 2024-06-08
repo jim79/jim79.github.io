@@ -9,7 +9,7 @@ redirect_from:
 ## Git Branches
 Git branches are a core feature of the Git version control system. They allow multiple lines of development to exist within a single repository, enabling different features, bug fixes, and experiments to be worked on simultaneously without interfering with the main codebase.
 
-## working with git branches
+## Working with Git branches
 =========================
 - View branches in a project \\
 ```git branch -a```

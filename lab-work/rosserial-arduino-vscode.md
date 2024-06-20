@@ -24,14 +24,16 @@ a) Run the command ```ls /dev/tty* ``` in a terminal
 b) USB port would be listed as /dev/ttyUSB*
 c) Edit the *platformio.ini* file within the project folder
 	- Add the line
-    *monitor_port* *= /dev/ttyUSB0*           > :memo: if the step b lists the port as ```/dev/ttyUSB0```
+    *monitor_port* *= /dev/ttyUSB0*           
+    > :memo: if the step b lists the port as ```/dev/ttyUSB0```
 
 4. Build *ros_lib* library in the project folder \
  - Right click on the ```lib``` folder in the project folder within the VS code explorer pane.
     - Select the option “Open in Integrated Terminal”. _This will open the directory in a terminal within VS code
     - In the terminal window you just opened, run the following command:
 
-```rosrun rosserial_arduino make_libraries.py . ```    > :memo:  Please note the "." at the end; this would create *ros_lib* library in the *lib* folder. \
+```rosrun rosserial_arduino make_libraries.py . ```    
+> :memo:  Please note the "." at the end; this would create *ros_lib* library in the *lib* folder. \
 
 This will build the ros_lib library in your project. Once this is finished we can move on to using our test script for out microcontroller. 
 

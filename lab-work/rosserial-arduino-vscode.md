@@ -20,9 +20,9 @@ In case of the latformio installation error *PlatformIO IDE can't find Python in
 - select a project location
 
 3. Platformio automatically detects the USB port to which Arduino board is connect to the PC. In case, it does not, follow these steps
-a) Run the command ```ls /dev/tty* ``` in a terminal
-b) USB port would be listed as /dev/ttyUSB*
-c) Edit the *platformio.ini* file within the project folder
+a) Run the command ```ls /dev/tty* ``` in a terminal \
+b) USB port would be listed as /dev/ttyUSB* \
+c) Edit the *platformio.ini* file within the project folder \
 	- Add the line
     *monitor_port* *= /dev/ttyUSB0*  
   &nbsp;&nbsp;&nbsp;&nbsp;if the step b lists the port as ```/dev/ttyUSB0```

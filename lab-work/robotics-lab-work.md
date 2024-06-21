@@ -118,7 +118,7 @@ Gazebo is an open-source 3D robotics simulator \
     -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
 
 ### Lab 8
-- ros_serial arduino \
+- ros_serial arduino 
 - [Simple publisher on Arduino](https://drive.google.com/file/d/1VgLc7mcEj2kEtpNgEPlX_J6ENYEIByQu/view?usp=sharing)
 
 - MoveIt \

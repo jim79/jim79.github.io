@@ -41,7 +41,7 @@ This will build the ros_lib library in your project. Once this is finished we ca
 
 6. Build the project and upload it to the Arduino board
 
-### [Video tutorial] (https://youtu.be/RZAXBMoWJcE])
+### [Video tutorial](https://youtu.be/RZAXBMoWJcE)
 
 in case of the following error *avrdude stk500_recv() programmer is not responding* comes up while uploading the code to the Arduino board, follow the solutions in the links given below.
 

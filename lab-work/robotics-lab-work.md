@@ -119,7 +119,7 @@ Gazebo is an open-source 3D robotics simulator \
 
 ### Lab 8
 - ros_serial arduino 
-- [Simple publisher on Arduino](https://drive.google.com/file/d/1VgLc7mcEj2kEtpNgEPlX_J6ENYEIByQu/view?usp=sharing)
+    - [Simple publisher on Arduino](https://drive.google.com/file/d/1VgLc7mcEj2kEtpNgEPlX_J6ENYEIByQu/view?usp=sharing)
 
 - MoveIt \
 MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \

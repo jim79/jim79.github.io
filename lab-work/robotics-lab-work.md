@@ -116,6 +116,11 @@ Gazebo is an open-source 3D robotics simulator \
     **Additional references**: \
     -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
     -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
+
+### Lab 8
+    - ros_serial arduino
+        - [Understanding a simple publisher on Arduino (line by line commented)](https://drive.google.com/file/d/1VgLc7mcEj2kEtpNgEPlX_J6ENYEIByQu/view?usp=sharing)
+
 - MoveIt \
 MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
 -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \

@@ -23,6 +23,10 @@
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
 #
+- type: youtube
+  icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.youtube.com/channel/UCiwhQtyilBl-TM-uvWrsi_g'                  # 
+
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/6143425/joaquim'   # Fill with your stackoverflow homepage

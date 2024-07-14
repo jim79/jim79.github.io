@@ -1,5 +1,5 @@
 ---
-icon: fas fa-flask
+icon: fas fa-folder
 order: 2
 layout: categories
 ---

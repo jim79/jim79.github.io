@@ -40,7 +40,6 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/jim79 # change to your github homepage
-    # Uncomment below to add more social links
     - https://www.youtube.com/channel/UCiwhQtyilBl-TM-uvWrsi_g
     # - https://www.linkedin.com/in/username
 
@@ -59,7 +58,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-9PCR97MPBX
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

@@ -10,7 +10,7 @@ order: 1
 
 <!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
 
-### <a href="/labs/robotics_lab/robotics-lab-work">Robotics lab work</a>
+### <a href="_labs/robotics_lab/robotics-lab-work.md">Robotics lab work</a>
 ### <a href="/labs/robotics_lab/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
 ### <a href="/labs/robotics_lab/rosserial-arduino-vscode">Configure VS Code for rosserial_arduino</a>
 ### <a href="/labs/robotics_lab/working-with-git-branches">Working with Git branches</a>

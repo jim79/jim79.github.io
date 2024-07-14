@@ -8,4 +8,4 @@ Hi! I am Joaquim Ignatious Monteiro, I am a faculty member with the Department o
 
 The purpose of this site is to disseminate resources of the theory and lab courses (these include current and past courses) taught by me. 
 
-[My Resume](posts/2024-07-14-resume.md)
+[My Resume](posts/2024-07-14-resume)

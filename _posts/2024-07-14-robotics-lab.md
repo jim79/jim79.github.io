@@ -8,8 +8,7 @@ categories : [Labs,Robotics Lab]
 <!-- ### <a href="https://jim-cet.github.io/">Web resources</a> -->
 
 <!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
-
-### <a href="2024-07-14-robotics-lab-work.md">Robotics lab work</a>
+### [posts/2024-07-14-robotics-lab-work](Robotics lab work)
 ### <a href="2024-07-14-ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
 ### <a href="2024-07-14-rosserial-arduino-vscode">Configure VS Code for rosserial_arduino</a>
 ### <a href="2024-07-14-working-with-git-branches">Working with Git branches</a>

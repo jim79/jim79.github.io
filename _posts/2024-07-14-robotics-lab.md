@@ -5,13 +5,13 @@ categories : [Labs,Robotics Lab]
 
 ## 221LIA001 - Robotics lab (M1 Robotics & Automation)
 
-<!-- ### <a href="https://jim-cet.github.io/">Web resources</a> -->
+<!-- ### [https://jim-cet.github.io/](Web resources) -->
 
-<!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
-### <a href="/posts/robotics-lab-work">Robotics lab work</a>
-### <a href="/posts/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
-### <a href="/posts/rosserial-arduino-vscode">Configure VS Code for rosserial_arduino</a>
-### <a href="/posts/working-with-git-branches">Working with Git branches</a>
-### <a href="https://drive.google.com/file/d/18qxX3PYAnwordcZVg58eSRodu4LdJzPb/view?usp=sharing">Assignment submission template</a>
-### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
-### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>
+<!-- [https://jim79.github.io/_pages/lab_work.md](Lab work) -->
+### [Robotics lab work](/posts/robotics-lab-work)
+### [Installing ROS Noetic on Raspberry Pi 3/4](/posts/ros-noetic-install-raspberrypi)
+### [Configure VS Code for rosserial_arduino](/posts/rosserial-arduino-vscode)
+### [Working with Git branches](/posts/working-with-git-branches)
+### [Assignment submission template](https://drive.google.com/file/d/18qxX3PYAnwordcZVg58eSRodu4LdJzPb/view?usp=sharing)
+### [Lab Record format](https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt)
+### [Course project report format](https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing)

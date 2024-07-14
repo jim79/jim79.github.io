@@ -10,11 +10,11 @@ order: 1
 
 <!-- <a href="https://jim79.github.io/_pages/lab_work.md">Lab work</a> -->
 
-### <a href="labs/robotics_lab/robotics-lab-work">Robotics lab work</a>
-### <a href="labs/robotics_lab/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
-### <a href="labs/robotics_lab/rosserial-arduino-vscode">Configure VS Code for rosserial_arduino</a>
-### <a href="labs/robotics_lab/working-with-git-branches">Working with Git branches</a>
-### <a href="labs/robotics_lab/https://drive.google.com/file/d/18qxX3PYAnwordcZVg58eSRodu4LdJzPb/view?usp=sharing">Assignment submission template</a>
+### <a href="/labs/robotics_lab/robotics-lab-work">Robotics lab work</a>
+### <a href="/labs/robotics_lab/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
+### <a href="/labs/robotics_lab/rosserial-arduino-vscode">Configure VS Code for rosserial_arduino</a>
+### <a href="/labs/robotics_lab/working-with-git-branches">Working with Git branches</a>
+### <a href="https://drive.google.com/file/d/18qxX3PYAnwordcZVg58eSRodu4LdJzPb/view?usp=sharing">Assignment submission template</a>
 ### <a href="https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt">Lab Record format</a>
 ### <a href="https://drive.google.com/drive/folders/11YUZnT6klvtsjD3ryc77d1zdPcAyhqRQ?usp=sharing">Course project report format</a>
 

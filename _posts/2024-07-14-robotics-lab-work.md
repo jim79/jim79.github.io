@@ -1,10 +1,6 @@
 ---
-permalink: /robotics-lab-work/
 title: "Robotics lab work"
-excerpt: "This is a page not in the main menu"
-author_profile: true
-redirect_from: 
-  - "/labs/robotics-lab-work/"
+categories : [Labs,Robotics Lab]
 ---
 ### Lab 1 : 
 - Ubuntu 20.04 LTS installation

@@ -1,10 +1,6 @@
 ---
-permalink: /rosserial-arduino-vscode/
 title: "Configure VS Code for rosserial_arduino"
-excerpt: "This is a page not in the main menu"
-author_profile: true
-redirect_from: 
-  - "/labs/rosserial-arduino-vscode"
+categories : [Labs,Robotics Lab]
 ---
 
 ### Configure VS Code for rosserial_arduino

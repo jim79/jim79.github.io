@@ -1,6 +1,6 @@
 ---
 title : Robotics Lab
-categories : [labs,Robotics Lab]
+categories : [Labs,Robotics Lab]
 ---
 
 ## 221LIA001 - Robotics lab (M1 Robotics & Automation)

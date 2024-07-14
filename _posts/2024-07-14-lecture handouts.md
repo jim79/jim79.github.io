@@ -1,6 +1,6 @@
 ---
 title : Lecture PPT handouts
-categories : [Resources,]
+categories : [Resources, Lecture PPT Handouts]
 ---
 
 ### <a href="https://drive.google.com/drive/folders/1SL_225arAviqpAPsI3IYldQV2EQnP1z7?usp=sharing">ECT 206 - Computer Architecture and Microcontrollers</a>

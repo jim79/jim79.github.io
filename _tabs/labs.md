@@ -5,3 +5,5 @@ layout: categories
 ---
 
 
+categories: [Animal, Insect]
+tags: [bee]

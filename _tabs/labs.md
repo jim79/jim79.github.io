@@ -1,13 +1,8 @@
 ---
-layout: archive
-title: "lab resources"
-permalink: /labs/
-author_profile: true
-redirect_from:
-  - /labs
+layout: archives
+order: 1
 ---
 
-{% include base_path %}
 
 ## 221LIA001 - Robotics lab (M1 Robotics & Automation)
 

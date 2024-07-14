@@ -1,13 +1,8 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: archives
+order: 5
 ---
 
-{% include base_path %}
 
 Education
 ======

@@ -1,14 +1,8 @@
 ---
-layout: archive
-title: "lecture handouts"
-permalink: /handouts/
-author_profile: true
-redirect_from:
-  - /handouts
+layout: archives
 order: 2
 ---
 
-{% include base_path %}
 ### <a href="https://drive.google.com/drive/folders/1SL_225arAviqpAPsI3IYldQV2EQnP1z7?usp=sharing">ECT 206 - Computer Architecture and Microcontrollers</a>
 
 ### <a href="https://drive.google.com/drive/folders/1C-o7xpS_64cSE2uZLh-uymvrTE7SzW0F?usp=sharing">AET 372 - Internet of Things</a>

@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a faculty member with the Department of Technical Education, Government of Kerala, India. Currently, I teach at the College of Engineering Trivandrum.

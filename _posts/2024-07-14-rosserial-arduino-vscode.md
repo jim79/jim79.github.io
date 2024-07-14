@@ -4,7 +4,7 @@ categories : [Labs,Robotics Lab]
 ---
 
 ### Configure VS Code for rosserial_arduino
- The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configure the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
+ The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. Roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configure the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
 
 1. Install platformio extension from VS code extensions
 

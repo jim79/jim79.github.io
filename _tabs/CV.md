@@ -1,4 +1,5 @@
 ---
+title: CV
 icon: fas fa-newspaper
 order: 4
 ---

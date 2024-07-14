@@ -1,5 +1,5 @@
 ---
-icon: fas fa-newspaper-o
+icon: fas fa-newspaper
 order: 4
 ---
 

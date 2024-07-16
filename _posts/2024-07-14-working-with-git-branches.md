@@ -1,6 +1,6 @@
 ---
 title: "Working with Git branches"
-categories : [Labs,Robotics Lab]
+categories : [Robotics Lab,Tutorials]
 ---
 ## Git Branches
 Git branches are a core feature of the Git version control system. They allow multiple lines of development to exist within a single repository, enabling different features, bug fixes, and experiments to be worked on simultaneously without interfering with the main codebase.

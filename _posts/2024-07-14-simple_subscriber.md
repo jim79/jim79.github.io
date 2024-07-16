@@ -1,6 +1,6 @@
 ---
 title: "Simple Subscriber"
-categories : [Labs,Robotics Lab]
+categories : [Robotics Lab,Tutorials]
 ---
 ## A ROS subsriber node line by line commented
 ```python

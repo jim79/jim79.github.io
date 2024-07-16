@@ -1,6 +1,6 @@
 ---
 title: "Simple Publisher"
-categories : [Labs,Robotics Lab]
+categories : [Robotics Lab,Tutorials]
 ---
 
 ## A ROS publisher node - line by line commented

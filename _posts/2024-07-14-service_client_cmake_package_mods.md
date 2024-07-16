@@ -1,6 +1,6 @@
 ---
 title: "Custom ROS service-client package file modifications"
-categories : [Labs,Robotics Lab]
+categories : [Robotics Lab,Tutorials]
 ---
 
 # For your custom ROS service client to run properly, modifications are to be made in the CMakeLists.txt and package.xml files of your package

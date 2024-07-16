@@ -2,6 +2,6 @@
 title : Lab Record Format
 categories : [Labs,Robotics Lab]
 layout: forward
-target: https://www.overleaf.com/latex/templates/m-dot-tech-lab-record/vdtdpprzbdrt
+target: https://drive.google.com/file/d/18qxX3PYAnwordcZVg58eSRodu4LdJzPb/view
 message: Redrecting to External Website
 ---

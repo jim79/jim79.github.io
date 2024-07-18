@@ -1,6 +1,6 @@
 ---
 title: "Configure VS Code for rosserial_arduino"
-categories : [Robotics Lab,Tutorials]
+categories : [Lab Resources,Robotics Lab,Tutorials]
 ---
 
 ### Configure VS Code for rosserial_arduino

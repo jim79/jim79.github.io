@@ -1,6 +1,6 @@
 ---
 title: "Robotics lab work"
-categories : [Robotics Lab, Robotics Lab Work]
+categories : [Lab Resources, Robotics Lab, Robotics Lab Work]
 ---
 ### Lab 1 : 
 - Ubuntu 20.04 LTS installation

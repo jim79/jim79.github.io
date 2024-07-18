@@ -1,5 +1,5 @@
 ---
-title: "Robotics lab work"
+title: "M1RAA - Robotics lab (221LIA001) : Lab work"
 categories : [Lab Resources, Robotics Lab, Robotics Lab Work]
 ---
 ### Lab 1 : 

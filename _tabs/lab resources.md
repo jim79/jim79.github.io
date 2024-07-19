@@ -1,5 +1,5 @@
 ---
 icon: fas fa-folder
 order: 3
-layout: forward
+layout: categories
 ---

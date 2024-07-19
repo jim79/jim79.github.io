@@ -2,7 +2,7 @@
 title : Configure VS Code for rosserial_arduino
 categories : [Lab Resources,Robotics Lab,Tutorials]
 layout: forward
-target: rosserial-arduino-vscode.md
+target: posts/rosserial-arduino-vscode.md
 # message: Redrecting to External Website -->
 ---
 

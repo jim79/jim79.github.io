@@ -1,6 +1,6 @@
 ---
 title: "Installing ROS Noetic on Raspberry Pi 3/4"
-categories : [Lab Resources, Robotics Lab,Tutorials]
+categories : [Robotics Lab,Tutorials]
 ---
 To allow ROS to run smoothly on resource limited Raspberry Pi 3, we shall install Raspberry Pi OS lite on Raspberry Pi. ROS Noetic is supported on Debian Buster (Debian 10) only. So we install the Buster image of Raspberry Pi OS lite on Pi.
 

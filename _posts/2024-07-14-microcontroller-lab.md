@@ -1,6 +1,6 @@
 ---
 title : Microcontroller Lab
-categories : [Lab Resources,Microcontroller Lab, Microcontroller Lab]
+categories : [Microcontroller Lab]
 ---
 
 ## ECL204 - Microcontroller Lab

@@ -3,7 +3,7 @@ title : Microcontroller Lab
 categories : [Microcontroller Lab]
 ---
 
-## ECL204 - Microcontroller Lab
+## ECL204 - Microcontroller Lab / AEL 333 Embedded Systems Lab
 
 ### 8051 simulation IDE's
 Any of the IDE's below can be used to simulate and study 8051 assembly language/C programming.

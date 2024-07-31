@@ -11,11 +11,9 @@ The ```first_launch_file.launch``` file is within the folder named _launch_ of t
 
 We can use the include tag in our ```main_launch_file.launch``` launch as given below
 
-```
-<launch>
+```<launch>
     <include file="$(find first_bot)/launch/first_launch_file.launch" />
-</launch>
-```
+</launch>```
 
 Then you ```run roslaunch main_launch_file.launch ``` , the nodes from the ```first_launch_file.launch``` will also be launched.
 

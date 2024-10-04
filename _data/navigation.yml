@@ -5,11 +5,11 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Home"
-    url: /https://jim79.github.io/
+    url: \
   - title: "Lab Resources"
     url: /lab-resources/
   - title: "Lectures"
     url: /lecture-handouts/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Blogs"
+    url: /blogs/
 

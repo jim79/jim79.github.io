@@ -1,5 +1,5 @@
 ---
-title: LCD Lab
+title: Logic Design Lab
 permalink: /lcd-lab/
 layout: single
 ---

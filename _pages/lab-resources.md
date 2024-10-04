@@ -5,7 +5,7 @@ layout: single
 ---
 
 ## 221LIA001 - Robotics lab (M1 Robotics & Automation)
-### <a href="221LIA001 - Robotics lab (M1 Robotics & Automation">Robotics lab</a>
+### <a href="robotics-lab">221LIA001 - Robotics lab (M1 Robotics & Automation)</a>
 
 
 ## ECL204 - Microcontroller Lab

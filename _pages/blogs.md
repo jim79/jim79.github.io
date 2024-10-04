@@ -4,8 +4,6 @@ permalink: /blogs/
 layout: single
 ---
 
-{% include base_path %}
-
 ## <a href="https://raspimint.blogspot.com/"> raspimint</a>
 A blog to help freshers get started with raspberrypi
 

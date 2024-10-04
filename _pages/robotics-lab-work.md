@@ -1,6 +1,6 @@
 ---
 title: "M1RAA - Robotics lab (221LIA001) : Lab work"
-categories : [Robotics Lab, Robotics Lab Work]
+# categories : [Robotics Lab, Robotics Lab Work]
 ---
 ### Lab 1 : 30/09/24
 - Ubuntu 20.04 LTS installation

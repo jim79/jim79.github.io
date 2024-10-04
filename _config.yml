@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Joaquim's Personal Webpage"
+title                    : "jim79.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jim79.github.io"
-description              : "Joaquim Ignatious Monteiro"
+# description              : "Joaquim Ignatious Monteiro"
 url                      : https://github.com/jim79 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joaquim"
+  # name             : "Joaquim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Joaquim Ignatious Monteiro"
   location         : "Kerala, India"
   email            :
   links:

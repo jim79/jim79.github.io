@@ -1,6 +1,7 @@
 ---
-title: "Custom ROS message on rosserial_arduino"
-categories : [Robotics Lab,Tutorials]
+title: Custom ROS message on rosserial_arduino
+permalink: /custom-ros-messages-on-rosserial_arduino/
+layout: single
 ---
 
 

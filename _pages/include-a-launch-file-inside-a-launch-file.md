@@ -1,6 +1,7 @@
 ---
 title: "How to include a launch file inside a launch file"
-categories : [Robotics Lab,Tutorials]
+permalink: /include-a-launch-file-inside-a-launch-file/
+layout: single
 ---
 
 Assume we have a launch file called ```main_launch_file.launch``` to launch another launch file called ```first_launch_file.launch``` from the ```first_bot``` package. 

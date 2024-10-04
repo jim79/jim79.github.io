@@ -1,5 +1,5 @@
 ---
-title: "M1RAA - Robotics lab (221LIA001) : Lab work"
+title: M1RAA - Robotics lab (221LIA001) : Lab work
 permalink: /robotics-lab-work/
 layout: single
 ---

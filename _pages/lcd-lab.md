@@ -1,6 +1,7 @@
 ---
-title : LCD Lab
-categories : [LCD Lab]
+title: LCD Lab
+permalink: /lcd-lab/
+layout: single
 ---
 
 ## ECL203 - Logic Design Lab

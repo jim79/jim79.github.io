@@ -1,6 +1,7 @@
 ---
-title: "Working with Git branches"
-categories : [Robotics Lab,Tutorials]
+title: Working with Git branches
+permalink: /working-with-git-branches/
+layout: single
 ---
 
 ## Git Branches

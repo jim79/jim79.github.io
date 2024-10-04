@@ -1,6 +1,7 @@
 ---
 title : Microcontroller Lab
-categories : [Microcontroller Lab]
+permalink: /microcontroller-lab/
+layout: single
 ---
 
 ## ECL204 - Microcontroller Lab / AEL 333 Embedded Systems Lab

@@ -1,6 +1,7 @@
 ---
-title : Lecture PPT handouts
-categories : []
+title: Lecture PPT handouts
+permalink: /lecture-handouts/
+layout: single
 ---
 
 ### <a href="https://drive.google.com/drive/folders/1B-jX_GzgXa_3CF3F47ELMI21Antd5rlt?usp=sharing">AET 305 - Computer Architecture & Embedded Systems</a>

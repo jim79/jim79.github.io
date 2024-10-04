@@ -4,7 +4,9 @@ permalink: /robotics-lab/
 layout: single
 ---
 
-### <a href="robotics-lab-work">Robotics Lab Work</a>
+### <a href="https://jim79.github.io/robotics-lab-work">Robotics Lab Work</a>
 
 ## Resources
-### <a href="Simple ROS Subcriber">ros-simple-subscriber</a>
+### <a href="https://jim79.github.io/ros-simple-publisher">Simple Publisher code explained</a>
+### <a href="https://jim79.github.io/ros-simple-subscriber">Simple Subscriber code explained</a>
+### <a href="https://jim79.github.io/ros-simple-subscriber">Simple Subscriber code explained</a>

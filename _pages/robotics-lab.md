@@ -1,5 +1,5 @@
 ---
-title: Lab Resources
+title: 221LIA001 - Robotics lab
 permalink: /robotics-lab/
 layout: single
 ---

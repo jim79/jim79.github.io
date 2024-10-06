@@ -1,5 +1,5 @@
 ---
-title: Custom ROS service-client package file modifications"
+title: Custom ROS service-client package file modifications
 permalink: /ros-service-client-cmake-package-modifications/
 layout: single
 ---

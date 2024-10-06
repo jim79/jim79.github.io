@@ -1,5 +1,5 @@
 ---
-title: "How to include a launch file inside a launch file"
+title: How to include a launch file inside a launch file
 permalink: /include-a-launch-file-inside-a-launch-file/
 layout: single
 ---

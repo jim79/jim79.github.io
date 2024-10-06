@@ -22,3 +22,16 @@ layout: single
     -[Setting up ROS environment on your PC](https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
+
+### Lab 2 : 07/10/24
+- Completing ROS installation and remaining tasks from lab 1
+- ROS basics
+- Setting up ROS environment on your PC
+    -[Setting up ROS environment on your PC](https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+- Navigating the ROS Filesystem
+    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
+- Python basics
+     -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)\
+- ROS node basics
+    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
+        Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 

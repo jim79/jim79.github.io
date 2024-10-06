@@ -22,3 +22,7 @@ layout: single
 ## Report templates
 #### <a href="https://jim79.github.io/assignment-template">Assignment Submission Template</a>
 #### <a href="https://jim79.github.io/cp-report-template">Course Project Report Format</a>
+
+## External Video resources
+ROS crash tutorial by Edouard Renard \
+-[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \

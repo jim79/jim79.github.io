@@ -25,4 +25,4 @@ layout: single
 
 ## External Video resources
 ROS crash tutorial by Edouard Renard \
--[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
+    -[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) 

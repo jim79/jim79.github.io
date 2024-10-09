@@ -6,6 +6,8 @@ layout: single
 
 ### <a href="https://drive.google.com/drive/folders/1B-jX_GzgXa_3CF3F47ELMI21Antd5rlt?usp=sharing">AET 305 - Computer Architecture & Embedded Systems</a>
 
+## <a href="https://drive.google.com/drive/folders/10crRd5vwS4MR4c-EW8_RZRByB-c8VsWA?usp=sharing">Course Project Report Template</a>
+
 ### <a href="https://drive.google.com/drive/folders/1C-o7xpS_64cSE2uZLh-uymvrTE7SzW0F?usp=sharing">AET 372 - Internet of Things</a>
 
 ### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">ECT 203 - Logic Circuit Design</a>

@@ -30,7 +30,7 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 [read more](https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755) 
 
 #### What does ```if __name__ == '__main__':``` do?
-[What does if __name__ == "__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do) \
+[What does if __name__ == '__main__': do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do) \
 To understand this concept [download](https://jim79.github.io/assets/main_example.zip) and execute these two simple python scripts
 
 ## Video resources

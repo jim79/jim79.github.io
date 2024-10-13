@@ -28,8 +28,7 @@ ROS crash tutorial by Edouard Renard \
     -[ROS crash course](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) 
 
 ## Extras
-#### shebang
- ```#!/usr/bin/env python```
+#### shebang ```#!/usr/bin/env python```
 The line that you write at the beginning of the python script is called **shebang**\
 shebang indicates the path to the python interpreter. \
 Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bin/env python```

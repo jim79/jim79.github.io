@@ -26,12 +26,24 @@ layout: single
 ### Lab 2 : 07/10/24
 - Completing ROS installation and remaining tasks from lab 1
 - ROS basics
-- Setting up ROS environment on your PC
-    -[Setting up ROS environment on your PC](https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
+- CMake basics
+- Creating a ROS workspace
 - Python basics
-     -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)\
-- ROS node basics
+     -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
+
+### Lab 3 : 14/10/24
+- Understanding ROS Nodes \
     -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
-        Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+- Understanding ROS Topics \
+    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+    -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
+- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
+    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
+- Simple Publisher and Subscriber \
+    -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
+    -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
+    -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
+    -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)

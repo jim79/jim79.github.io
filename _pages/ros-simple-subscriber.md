@@ -3,7 +3,7 @@ title: "Simple Subscriber"
 permalink: /ros-simple-subscriber/
 layout: wide
 ---
-## A ROS subsriber node line by line commented
+## A ROS subscriber node line by line commented
 ```python
 
 #!/usr/bin/env python    # shebang 

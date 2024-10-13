@@ -1,7 +1,7 @@
 ---
 title: "Simple Subscriber"
 permalink: /ros-simple-subscriber/
-layout: single
+layout: wide
 ---
 ## A ROS subsriber node line by line commented
 ```python

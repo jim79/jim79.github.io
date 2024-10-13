@@ -1,7 +1,7 @@
 ---
 title: "Simple Publisher"
 permalink: /ros-simple-publisher/
-layout: single
+layout: wide
 ---
 
 ## A ROS publisher node - line by line commented

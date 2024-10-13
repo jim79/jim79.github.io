@@ -31,9 +31,9 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 
 #### What does ```if __name__ == "__main__":``` do?
 [What does if __name__ == "__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do) \
-To understand this concept [download](https://jim79.github.io/assets/main_example.zip) and exexute these two simple python scripts
+To understand this concept [download](https://jim79.github.io/assets/main_example.zip) and execute these two simple python scripts
 
 ## Video resources
-[ROS crash tutorial by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) 
+[ROS crash tutorial by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
 [ROS Wiki Demonstrations by Muhammad Luqman](https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&si=nXNwrf4rnSxTOTc1) 
 

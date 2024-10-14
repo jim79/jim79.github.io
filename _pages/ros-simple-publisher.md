@@ -21,7 +21,7 @@ def lab_publisher1(): # function for the publisher
     
     
     rate = rospy.Rate(2) # creates a Rate object rate. 
-    # argument of 2, we should expect to go through the loop 2 times per second 
+    # argument of 2, we want to execute the publisher code 2 times per second 
     
     rospy.loginfo('publishing test') # rospy.loginfo can be regarded as print function, it prints the argument in the terminal
     # rospy also has other methods like rospy.logerr, rospy.logdebug, rospy.logwarn

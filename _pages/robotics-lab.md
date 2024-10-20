@@ -18,6 +18,19 @@ layout: single
 #### <a href="https://jim79.github.io/dc-motor-interfacing-with-ros-serial">DC motor interfacing with ROS serial</a>
 #### <a href="https://jim79.github.io/dc-motor-with-encoder-interfacing-with-ros-serial">DC motor with encoder interfacing with ROS serial</a>
 
+## _simply2say_ video resources
+[Creating ROS Package](https://youtu.be/QRJ9mbzWPcY?si=smR5fAmoSlvVbcZW) \
+[ROS simple publisher subscriber](https://youtu.be/YEA6iAf66cg?si=gvKeGxwM0e-H7xsV) \
+[Accepting assignment in Github classroom](https://youtu.be/D71H9aHyJI8?si=2BePHKGPbhvIDxuG) \
+[Assignment submission on Github classroom](https://youtu.be/8XKzEXKkhIQ?si=Gbja2nFxesDl8snJ) \
+[Get info about node using ROS commands](https://youtu.be/p3-kGZAPv5E?si=Ad4s2omMc8O7zXPA) \
+[ROS Service - Server node coding](https://youtu.be/1-5tm4RIK6o?si=HsRvwtC3fi1rJAK3) \
+[ROS Service - Client node coding](https://youtu.be/Fp4x8WlLVb8?si=wQ2h9QQAS729f0P_) 
+
+## Other video resources
+[ROS Noetic For Beginners by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
+[ROS Wiki Demonstrations by Muhammad Luqman](https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&si=nXNwrf4rnSxTOTc1) 
+
 ## Report templates
 #### <a href="https://jim79.github.io/assignment-template">Assignment Submission Template</a>
 #### <a href="https://jim79.github.io/cp-report-template">Course Project Report Format</a>
@@ -32,8 +45,3 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 #### What does ```if __name__ == '__main__':``` do?
 [What does if __name__ == '__main__': do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do) \
 To understand this concept [download](https://jim79.github.io/assets/main_example.zip) and execute these two simple python scripts
-
-## Video resources
-[ROS Noetic For Beginners by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
-[ROS Wiki Demonstrations by Muhammad Luqman](https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&si=nXNwrf4rnSxTOTc1) 
-

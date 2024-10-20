@@ -53,3 +53,13 @@ layout: single
     -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
     -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
     -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
+
+### Lab 4 : 21/10/24
+- Service and Client nodes \
+    -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
+    -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
+    -[Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) \
+    -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
+    -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
+    -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
+    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 

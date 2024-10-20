@@ -44,4 +44,8 @@ Always start your python scripts with a #! shebang. Preferably with ```#!/usr/bi
 
 #### What does ```if __name__ == '__main__':``` do?
 [What does if __name__ == '__main__': do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do) \
+A Python file can be executed either as a script from the command line as ```python file_name.py``` or can be imported in another Python script. ```if __name__ == '__main__':``` is a Python construct to enable this.
 To understand this concept [download](https://jim79.github.io/assets/main_example.zip) and execute these two simple python scripts
+
+#### Python _Try Except_
+[Python _Try Except_](https://www.geeksforgeeks.org/python-try-except/)

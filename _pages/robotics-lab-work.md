@@ -63,3 +63,11 @@ layout: single
     -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
     -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
     -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+
+### Lab 5 : 28/10/24
+- turtlesim \
+    -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
+    -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
+    -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\
+    -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials
+    

@@ -25,7 +25,8 @@ layout: single
 [Assignment submission on Github classroom](https://youtu.be/8XKzEXKkhIQ?si=Gbja2nFxesDl8snJ) \
 [Get info about node using ROS commands](https://youtu.be/p3-kGZAPv5E?si=Ad4s2omMc8O7zXPA) \
 [ROS Service - Server node coding](https://youtu.be/1-5tm4RIK6o?si=HsRvwtC3fi1rJAK3) \
-[ROS Service - Client node coding](https://youtu.be/Fp4x8WlLVb8?si=wQ2h9QQAS729f0P_) 
+[ROS Service - Client node coding](https://youtu.be/Fp4x8WlLVb8?si=wQ2h9QQAS729f0P_) \
+[Launch multiple nodes using launch file](https://youtu.be/kKoPqGDgwMo) 
 
 ## Other video resources
 [ROS Noetic For Beginners by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \

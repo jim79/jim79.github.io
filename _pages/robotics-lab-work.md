@@ -35,41 +35,41 @@ layout: single
 
 ### Lab 3 : 14/10/24
 - Understanding ROS Nodes \
-    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
+        -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
     Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
-- Understanding ROS Topics \
-    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
-    -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
+        - Understanding ROS Topics \
+        -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
 - Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
-    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
+        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
 - Simple Publisher and Subscriber \
-    -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
-    -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
-    -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
-    -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)
+        -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
+        -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
+        -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
+        -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)
 
 ### Preparatory work (To be completed by all students before lab 4)
 -  GitHub fundamentals \
-    -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
-    -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
-    -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
+        -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
+        -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
+        -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
 
 ### Lab 4 : 21/10/24
 - Service and Client nodes \
-    -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
-    -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
-    -[Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) \
-    -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
-    -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
-    -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
-    -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+        -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
+        -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
+        -[Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) \
+        -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
+        -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
+        -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
+        -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
 
 ### Lab 5 : 28/10/24
 - turtlesim \
-    -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
-    -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
-    -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\
-    -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials 
+        -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
+        -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
+        -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\
+        -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials 
 - Launch files \
-    -[launch files - Chapter from the book 'A Gentle Introduction to ROS'](https://jokane.net/agitr/agitr-small-launch.pdf) [link 2](https://jim79.github.io/assets/launch_files_gentle_intro_ros.pdf) \
-    -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) 
+        -[launch files - Chapter from the book 'A Gentle Introduction to ROS'](https://jokane.net/agitr/agitr-small-launch.pdf) [link 2](https://jim79.github.io/assets/launch_files_gentle_intro_ros.pdf) \
+        -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) 

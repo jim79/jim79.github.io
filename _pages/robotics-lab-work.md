@@ -69,7 +69,8 @@ layout: single
         -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
         -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
         -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\
-        -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials 
+        -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials \
+        - Control the turtle with rqt_robot_steering GUI ```rosrun rqt_robot_steering rqt_robot_steering```
 - Launch files \
         -[launch files - Chapter from the book 'A Gentle Introduction to ROS'](https://jokane.net/agitr/agitr-small-launch.pdf) [link 2](https://jim79.github.io/assets/launch_files_gentle_intro_ros.pdf) \
         -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) 

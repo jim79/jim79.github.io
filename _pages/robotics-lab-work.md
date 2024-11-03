@@ -74,3 +74,13 @@ layout: single
 - Launch files \
         -[launch files - Chapter from the book 'A Gentle Introduction to ROS'](https://jokane.net/agitr/agitr-small-launch.pdf) [link 2](https://jim79.github.io/assets/launch_files_gentle_intro_ros.pdf) \
         -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) 
+
+### Lab 6 : 4/11/24
+- URDF \
+        -[How do we describe a robot? With URDF!](https://youtu.be/CwdbsvcpOHM?si=PnAr6AdEhopQSnq7) \
+        -[Create a visual model of a robot that you can view in Rviz](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch) \
+- Mobile robot URDF \
+        -[Creating urdf model of a robot (Video demonstration)](https://youtu.be/-fMxgG1cPDA?si=9V84MQ9Tzgh1Xdjj) \
+        -[Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model) \
+        -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \
+        -[ROS mobile robot URDF , Xacros with Meshes(Video demonstration)](https://youtu.be/yXFL5GWdvBE?si=XiqKn2PAhxOZAo6t)

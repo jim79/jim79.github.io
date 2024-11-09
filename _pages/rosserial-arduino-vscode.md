@@ -41,10 +41,10 @@ This will build the ros_lib library in your project. Once this is finished we ca
 ### [Video tutorial](https://youtu.be/RZAXBMoWJcE)
 
 ### Other Errors
-1. In case of the following error *avrdude stk500_recv() programmer is not responding* comes up while uploading the code to the Arduino board, follow the solutions in the links given below.
+- In case of the following error *avrdude stk500_recv() programmer is not responding* comes up while uploading the code to the Arduino board, follow the solutions in the links given below.
 
 [99-platformio-udev.rules](https://docs.platformio.org/en/latest/core/installation/udev-rules.html) \\
-[platformio-arduino-error message](https://techoverflow.net/2021/11/11/how-i-fixed-platformio-arduino/)
+[platformio-arduino-error message](https://techoverflow.net/2021/11/11/how-i-fixed-platformio-arduino/) 
 
-2. *avrdude stk500_recv() programmer is not responding* may also arise if ROS Serial is running while code is being dumped to Arduino board. The solution is simple : stop the rosserial_arduino running in the termin and then and then again try to dump code to Arduino.
+- *avrdude stk500_recv() programmer is not responding* may also arise if ROS Serial is running while code is being dumped to Arduino board. The solution is simple : stop the rosserial_arduino running in the termin and then and then again try to dump code to Arduino.
 

@@ -9,7 +9,7 @@ layout: single
 
 1. Install platformio extension from VS code extensions
 
-In case of the latformio installation error *PlatformIO IDE can't find Python interpreter on Linux* install python3-venv
+In case of the Platformio installation error *PlatformIO IDE can't find Python interpreter on Linux* install python3-venv
 ```sudo apt install python3-venv```
 2. Once the platformio extension is installed, create a new project in platformio vscode 
 - give a project name 
@@ -30,7 +30,7 @@ c) Edit the *platformio.ini* file within the project folder \
     - In the terminal window you just opened, run the following command:
 
 ```rosrun rosserial_arduino make_libraries.py . ```    
-&nbsp;&nbsp;&nbsp;&nbsp;lease note the "." at the end; this would create *ros_lib* library in the *lib* folder. \
+&nbsp;&nbsp;&nbsp;&nbsp;Note the "." at the end; this would create *ros_lib* library in the *lib* folder. \
 
 This will build the ros_lib library in your project. Once this is finished we can move on to using our test script for out microcontroller. 
 
@@ -40,7 +40,8 @@ This will build the ros_lib library in your project. Once this is finished we ca
 
 ### [Video tutorial](https://youtu.be/RZAXBMoWJcE)
 
-in case of the following error *avrdude stk500_recv() programmer is not responding* comes up while uploading the code to the Arduino board, follow the solutions in the links given below.
+### Other Errors
+In case of the following error *avrdude stk500_recv() programmer is not responding* comes up while uploading the code to the Arduino board, follow the solutions in the links given below.
 
 [99-platformio-udev.rules](https://docs.platformio.org/en/latest/core/installation/udev-rules.html) \\
 [platformio-arduino-error message](https://techoverflow.net/2021/11/11/how-i-fixed-platformio-arduino/)

@@ -90,7 +90,7 @@ layout: single
         - [Familiarizartion with Arduino](https://docs.arduino.cc/built-in-examples/) \
         - [Configure VS Code for rosserial_arduino](https://jim79.github.io/rosserial-arduino-vscode) \
         - [DC motor interfacing with ROS serial](https://jim79.github.io/dc-motor-interfacing-with-ros-serial) \
-    #### Experiments to be done : 
+    - Experiments to be done : 
     1. Led blinking and displaying led status on serial terminal
     2. Displaying ultrasound sensor range on terminal
     3. DC Motor control using ROS Serial

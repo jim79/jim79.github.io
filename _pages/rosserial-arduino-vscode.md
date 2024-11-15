@@ -7,6 +7,10 @@ layout: single
 ### Configure VS Code for rosserial_arduino
  The package *rosserial_arduino* contains Arduino-specific extensions required to run rosserial_client on an Arduino boards. Roswiki has [detailed tutorials and examples](http://wiki.ros.org/rosserial_arduino/Tutorials) to configure the Arduino IDE to use *rosserial_arduino*. Here we disuss the steps to configure [VS Code](https://code.visualstudio.com) for *rosserial_arduino* project.
 
+## Install rosserial_arduino (if not already installed)
+```sudo apt-get install ros-noetic-rosserial-arduino```
+```sudo apt-get install ros-noetic-rosserial```
+
 1. Install platformio extension from VS code extensions
 
 In case of the Platformio installation error *PlatformIO IDE can't find Python interpreter on Linux* install python3-venv

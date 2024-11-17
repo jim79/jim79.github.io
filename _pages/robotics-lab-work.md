@@ -96,7 +96,7 @@ layout: single
     2. Led blinking and displaying led status on serial terminal
 
 ### Lab 8 : 18/11/24
-- Lab Viva \
+- Lab Viva 
 - Gazebo \
     Gazebo is an open-source 3D robotics simulator \
     **Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_** \

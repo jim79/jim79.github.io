@@ -36,7 +36,7 @@ layout: single
 [ROS Wiki Demonstrations by Muhammad Luqman](https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&si=nXNwrf4rnSxTOTc1) 
 
 ## Resources
-[MIT OpenCourseWare:Introduction to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/lecture-notes/)
+[MIT OpenCourseWare:Introduction to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/lecture-notes/) \
 [cplusplus.com](https://cplusplus.com/doc/tutorial/)
 
 ## Report templates

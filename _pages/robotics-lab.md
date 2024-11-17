@@ -35,6 +35,10 @@ layout: single
 [ROS Noetic For Beginners by Edouard Renard](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q) \
 [ROS Wiki Demonstrations by Muhammad Luqman](https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee&si=nXNwrf4rnSxTOTc1) 
 
+## Resources
+[MIT OpenCourseWare:Introduction to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/lecture-notes/)
+[cplusplus.com](https://cplusplus.com/doc/tutorial/)
+
 ## Report templates
 #### <a href="https://jim79.github.io/assignment-template">Assignment Submission Template</a>
 #### <a href="https://jim79.github.io/cp-report-template">Course Project Report Format</a>

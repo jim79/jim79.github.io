@@ -38,6 +38,7 @@ layout: single
 ## Resources
 [MIT OpenCourseWare:Introduction to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/lecture-notes/) \
 [cplusplus.com](https://cplusplus.com/doc/tutorial/)
+[rosdep : Install_dependency_of_all_packages_in_the_workspace](https://wiki.ros.org/rosdep#Install_dependency_of_all_packages_in_the_workspace)
 
 ## Report templates
 #### <a href="https://jim79.github.io/assignment-template">Assignment Submission Template</a>

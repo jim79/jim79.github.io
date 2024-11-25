@@ -112,3 +112,13 @@ layout: single
     **Additional references**: \
     -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
     -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
+
+### Lab 9 : 25/11/24
+- Lab Viva 
+- MoveIt \
+    MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
+    -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
+    -[MoveIt tutorials](https://ros-planning.github.io/moveit_tutorials/index.html) \
+    -[Getting started with MoveIt](https://ros-planning.github.io/moveit_tutorials/doc/getting_started/getting_started.html) \
+    -[MoveIt Quickstart in RViz](https://ros-planning.github.io/moveit_tutorials/doc/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) \
+    -[MoveGroup](https://ros-planning.github.io/moveit_tutorials/index.html#movegroup-ros-wrappers-in-c-and-python)

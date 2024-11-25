@@ -118,7 +118,5 @@ layout: single
 - MoveIt \
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
-    -[MoveIt tutorials](https://ros-planning.github.io/moveit_tutorials/index.html) \
-    -[Getting started with MoveIt](https://ros-planning.github.io/moveit_tutorials/doc/getting_started/getting_started.html) \
-    -[MoveIt Quickstart in RViz](https://ros-planning.github.io/moveit_tutorials/doc/quickstart_in_rviz/quickstart_in_rviz_tutorial.html) \
-    -[MoveGroup](https://ros-planning.github.io/moveit_tutorials/index.html#movegroup-ros-wrappers-in-c-and-python)
+    -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
+    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._

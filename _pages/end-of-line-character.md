@@ -7,7 +7,8 @@ layout: single
 ## New line 
 A *newline*, also known as a line break or end-of-line (EOL) character, is a special character or sequence of characters used to indicate the end of a line of text. It is commonly used in computing and programming to separate lines of code or text.
 
-**Windows uses the combination ```\r\n``` (also known as CR/LF (Carriage Return and Line Feed)) to denote the new line character**
+**Windows uses the combination ```\r\n``` (also known as CR/LF (Carriage Return and Line Feed)) to denote the new line character** 
+
 **Unix-like systems use ```\n``` (LF (Line Feed)) tp denote the new line character**
 
 _Python code written on Windows can generally run on Linux systems, as Python is cross-platform. Most Python interpreters solve the end-of-line differences automatically. But scripts with DOS (Windows) line endings can cause issues in bash scripts or when read as plain text files._

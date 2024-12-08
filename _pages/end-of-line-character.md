@@ -42,6 +42,7 @@ You can globally configure the end-of-line (EOL) character in Visual Studio Code
 
 ## Git and end-of-line character
 What about code you clone from a Git repo or the code that you push to a Git repo ?
+
 The default end-of-line (EOL) setting in Git depends on the operating system and whether specific configurations like ```core.autocrlf``` or ```.gitattributes``` have been set.
 
 ### Default Behavior

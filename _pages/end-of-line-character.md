@@ -66,6 +66,6 @@ For example:
 ```
 This normalizes text files to LF in the repository and applies platform-specific EOLs on checkout.
 
-For a brief history and Normalizing Line Endings in Git read this article.
+For a brief history and Normalizing Line Endings in Git read this article.\
 [CRLF vs. LF: Normalizing Line Endings in Git](https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#line-endings-in-git)
 

@@ -18,7 +18,7 @@ layout: single
 #### <a href="https://jim79.github.io/dc-motor-interfacing-with-ros-serial">DC motor interfacing with ROS serial</a>
 #### <a href="https://jim79.github.io/dc-motor-with-encoder-interfacing-with-ros-serial">DC motor with encoder interfacing with ROS serial</a>
 #### <a href="https://github.com/jim79/hello-ros-serial">Hello ROS serial node running on Arduino</a>
-#### <a href="https://github.com/jim79/end-of-line-character">End-of-line characters - LF, CR/LF</a>
+#### <a href="https://jim79.github.io/end-of-line-character">End-of-line characters - LF, CR/LF</a>
 
 
 

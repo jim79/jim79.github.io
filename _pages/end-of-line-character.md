@@ -10,7 +10,7 @@ A *newline*, also known as a line break or end-of-line (EOL) character, is a spe
 **Windows uses the combination ```\r\n``` (also known as CR/LF (Carriage Return and Line Feed)) to denote the new line character**
 **Unix-like systems use ```\n``` (LF (Line Feed)) tp denote the new line character**
 
-__Python code written on Windows can generally run on Linux systems, as Python is cross-platform. Most Python interpreters solve the end-of-line differences automatically. But scripts with DOS (Windows) line endings can cause issues in bash scripts or when read as plain text files.__
+_Python code written on Windows can generally run on Linux systems, as Python is cross-platform. Most Python interpreters solve the end-of-line differences automatically. But scripts with DOS (Windows) line endings can cause issues in bash scripts or when read as plain text files._
 
 #### You can use tools like ```dos2unix and unix2dos``` to convert line endings of bash scripts and text files.
 

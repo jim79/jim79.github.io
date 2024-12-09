@@ -31,7 +31,7 @@ network={
 
 ```
 
-4. Add the entries of the new wifi connection so that the modfied file is as below
+#### Add the entries of the new wifi connection so that the modfied file is as below
 
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
@@ -49,7 +49,7 @@ psk="cet@123"
 }
 
 ```
-5. Press ```ctrl + s``` to save the file
-6. Press ```ctrl + x``` to exit the editor
-7. Load the SD card into Raspberry Pi and power up
+#### Press ```ctrl + s``` to save the file
+#### Press ```ctrl + x``` to exit the editor
+#### Load the SD card into Raspberry Pi and power up
 

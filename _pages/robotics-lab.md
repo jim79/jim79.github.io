@@ -7,6 +7,8 @@ layout: single
 ### <a href="https://jim79.github.io/robotics-lab-work">Robotics Lab Work</a>
 
 ## Resources
+
+### ROS
 #### <a href="https://jim79.github.io/ros-simple-publisher">Simple Publisher code explained</a>
 #### <a href="https://jim79.github.io/ros-simple-subscriber">Simple Subscriber code explained</a>
 #### <a href="https://jim79.github.io/working-with-git-branches">Working with Git branches</a>
@@ -19,6 +21,9 @@ layout: single
 #### <a href="https://jim79.github.io/dc-motor-with-encoder-interfacing-with-ros-serial">DC motor with encoder interfacing with ROS serial</a>
 #### <a href="https://github.com/jim79/hello-ros-serial">Hello ROS serial node running on Arduino</a>
 #### <a href="https://jim79.github.io/end-of-line-character">End-of-line characters - LF, CR/LF</a>
+
+### Raspberry Pi
+#### <a href="https://jim79.github.io/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
 
 
 

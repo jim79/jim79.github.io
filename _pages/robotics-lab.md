@@ -22,6 +22,7 @@ layout: single
 ### Raspberry Pi
 #### <a href="https://jim79.github.io/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
 #### <a href="https://jim79.github.io/rpi-wifi-configure">Configure wifi on Raspberry Pi</a>
+#### <a href="https://jim79.github.io/rpi-ssh-configure">Configure SSH on Raspberry Pi</a>
 
 ### Git
 #### <a href="https://jim79.github.io/working-with-git-branches">Working with Git branches</a>

@@ -24,7 +24,7 @@ layout: single
 
 ### Raspberry Pi
 #### <a href="https://jim79.github.io/ros-noetic-install-raspberrypi">Installing ROS Noetic on Raspberry Pi 3/4</a>
-
+#### <a href="https://jim79.github.io/rpi-wifi-configure">Configure wifi on Raspberry Pi</a>
 
 
 ## _simply2say_ video resources

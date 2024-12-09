@@ -6,3 +6,5 @@ layout: single
 
 ### <a href="https://jim79.github.io/assets/configure_wifi_raspberrypi_headless.pdf">Configure wifi on Raspberry Pi headless</a>
 
+
+### <a href="https://jim79.github.io/assets/wpa_supplicant.conf">A template wpa_supplicant.conf file</a>

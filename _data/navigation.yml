@@ -12,4 +12,6 @@ main:
     url: /lecture-handouts/
   - title: "Blogs"
     url: /blogs/
+  - title: "Templates"
+    url: /templates/
 

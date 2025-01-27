@@ -3,7 +3,7 @@ title: GXESL208 - IT Workshop
 permalink: /it-workshop/
 layout: single
 ---
-## Workshop Resources
+
 ### Experiment 1 : Lab Safety
 
 ### Experiment 2 : Computer Hardware Familiarization

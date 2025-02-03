@@ -12,4 +12,4 @@ layout: single
 
 ### <a href="https://jim79.github.io/it-workshop">GXESL208 - IT Workshop</a>
 
-### <a href="https://jim79.github.io/foundations-project">GXEST203 Course Project Instructions</a>
+### <a href="https://jim79.github.io/course-project">GXEST203 Course Project Instructions</a>

@@ -11,3 +11,5 @@ layout: single
 ### <a href="https://jim79.github.io/lcd-lab">ECL203 - Logic Design Lab</a>
 
 ### <a href="https://jim79.github.io/it-workshop">GXESL208 - IT Workshop</a>
+
+### <a href="https://jim79.github.io/GXEST203_course project_instructions">GXEST203 Course Project Instructions</a>

@@ -1,3 +1,8 @@
+---
+title: S2 ECE - Foundations of Computing (GXEST203) Course Project
+permalink: /course-project-instrs/
+layout: single
+---
 ### S2 ECE : Foundations of Computing - GXEST203
 #### Course project Instructions
 * Course project involves development of a static website 

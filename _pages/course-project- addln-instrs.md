@@ -3,9 +3,7 @@ title: S2 ECE - Foundations of Computing (GXEST203) Course Project
 permalink: /course-project-addln-instrs/
 layout: single
 ---
-### S2 ECE : Foundations of Computing - GXEST203
-
-#### Course project additional instructions 
+### Course project additional instructions 
 
 These additional instructions are issued since several students sought clarity on various aspects of the course project. 
 

@@ -9,7 +9,7 @@ These additional instructions are issued since several students sought clarity o
 
 ## Your course project involves development of a static web page.
 ### So what is a static web page ?
-A static website is a website where the website content remains fixed and is the same for every visitor and does not change dynamically based on user input or database interaction. An example would be my website [https://www.jim79.github.io/](https://www.jim79.github.io/). The pages of a static website are pre-built and served as-is to the user's browser without requiring server-side processing.
+A static website is a website where the website content remains fixed and is the same for every visitor and does not change dynamically based on user input or database interaction. An example would be my website [https://jim79.github.io/](https://jim79.github.io/). The pages of a static website are pre-built and served as-is to the user's browser without requiring server-side processing.
 
 #### Key Features of a Static Website:
 - Fixed Content – The content does not change unless manually updated by a developer.

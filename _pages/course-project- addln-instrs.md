@@ -15,7 +15,7 @@ A static website is a website where the website content remains fixed and is the
 - Fixed Content – The content does not change unless manually updated by a developer.
 - Built with HTML, CSS, and JavaScript – No need for server-side scripting like PHP, Node.js, or Python.
 
-Common examples of static websites include resume websites, portfolio websites, brochure websites, landing pages (_similiar to like mine_) [https://jim79.github.io/jim/] (https://jim79.github.io/jim/) , Documentation pages, and other informational or read-only sites. 
+Common examples of static websites include resume websites, portfolio websites, brochure websites, landing pages (_similiar to like mine_) [https://jim79.github.io/jim/](https://jim79.github.io/jim/) , Documentation pages, and other informational or read-only sites. 
 
 ### What is a Dynamic Website?
 A dynamic website is a site where the content changes based on user interactions, preferences, or real-time data. It uses server-side processing and databases to generate web pages dynamically instead of serving pre-built HTML files.

@@ -27,4 +27,4 @@ layout: single
 
 -------------------------------------------------------------
 ##### Worksheet
-#### <a href="https://jim79.github.io/assets/GXESL208_IT_Workshop_Worksheet.pdf">Lab Worksheet</a> **Updated January 27, 2025**
+#### <a href="https://jim79.github.io/assets/GXESL208_IT_Workshop_Worksheet.pdf">Lab Worksheet</a> **Updated February 21, 2025**

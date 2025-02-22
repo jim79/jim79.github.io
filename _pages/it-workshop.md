@@ -25,6 +25,13 @@ layout: single
 2. Write down each command and its output (shorten, if needed) in your rough record.
 3. Before leaving the lab submit your rough record and obtain signature from faculty.
 
+### Experiment 3 : Familiarizing basic Unix/Linux commands
+
+### Experiment 5 :Installation of Linux and Windows Operating Systems
+
 -------------------------------------------------------------
 ##### Worksheet
-#### <a href="https://jim79.github.io/assets/GXESL208_IT_Workshop_Worksheet.pdf">Lab Worksheet</a> **Updated February 21, 2025**
+#### <a href="https://jim79.github.io/assets/GXESL208_IT_Workshop_Worksheet.pdf">Lab Manual</a> **Updated February 21, 2025**
+
+##### Lab Record
+#### <a href="https://jim79.github.io/assets/IT_workshop_lab_record.pdf">Lab Record</a> **Updated February 22, 2025**

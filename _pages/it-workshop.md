@@ -38,4 +38,4 @@ Refer instructions in the Lab worksheet
 #### <a href="https://jim79.github.io/assets/GXESL208_IT_Workshop_Worksheet.pdf">Lab Worksheet</a> **Updated February 22, 2025**
 
 ##### Lab Record
-#### <a href="https://jim79.github.io/assets/IT_workshop_lab_record.pdf">Lab Record</a> **Updated February 22, 2025**
+#### <a href="https://jim79.github.io/assets/IT_workshop_lab_record.pdf">Lab Record</a> **Updated March 29, 2025**

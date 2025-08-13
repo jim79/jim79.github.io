@@ -3,7 +3,7 @@ title: "Robotics lab (221LIA001) : Lab work"
 permalink: /robotics-lab-work/
 layout: single
 ---
-### Lab 1 : 30/09/24
+### Lab 1 : 14/08/25
 - Ubuntu 20.04 LTS installation
     - [Ubuntu desktop install](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 - Ubuntu/Linux basics
@@ -14,7 +14,7 @@ layout: single
 - ROS basics
     - ROS installation basics
 
-### Lab preparation session : 03/10/24
+<!-- ### Lab preparation session : 03/10/24
 - Install ROS on Windows 11 using Windows Subsystem for Linux 2 (WSL2)
     - [Installing Ubuntu 20.04 LTS on Windows using WSL2](https://learn.microsoft.com/en-us/windows/wsl/install-manual)
     - [Installing ROS Noetic on Ubuntu](https://wiki.ros.org/noetic/Installation)
@@ -119,4 +119,4 @@ layout: single
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
     -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
-    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._
+    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ -->

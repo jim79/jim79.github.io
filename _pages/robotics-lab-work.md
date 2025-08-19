@@ -28,22 +28,22 @@ layout: single
 
 ### Lab 2 : 21/08/25
 - Completing ROS installation and remaining tasks from lab 1
-- #### ROS basics \
+- #### ROS basics 
 - Navigating the ROS Filesystem
-    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
-- CMake basics
-- Creating a ROS workspace \
+    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) \
+- CMake basics \
+- Creating a ROS workspace 
 
-
-- #### Understanding ROS Nodes \ 
-        -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
+- #### Understanding ROS Nodes 
+    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
     Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun \
-        - Understanding ROS Topics \
-        -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
-        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) \
+    - Understanding ROS Topics \
+    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+    -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) 
+
 ##### Lab Task 
 - Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
-        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
+    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
 
 <!-- ### Lab 3 : 14/10/24
 - Understanding ROS Nodes \

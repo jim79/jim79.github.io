@@ -32,16 +32,16 @@ layout: single
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
 - CMake basics
-- Creating a ROS workspace
+- Creating a ROS workspace \
 
 
 - #### Understanding ROS Nodes \ 
         -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
-    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun \
         - Understanding ROS Topics \
         -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
-        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
-##### Lab Task \
+        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) \
+##### Lab Task 
 - Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
         -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
 

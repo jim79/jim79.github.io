@@ -31,14 +31,14 @@ layout: single
 - #### ROS basics 
 - Navigating the ROS Filesystem
     -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) \
-- CMake basics \
+- CMake basics [Lecture]
 - Creating a ROS workspace 
 
 - #### Understanding ROS Nodes 
-    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
-    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun \
-    - Understanding ROS Topics \
-    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) 
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+    - Understanding ROS Topics 
+    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) 
     -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) 
 
 ##### Lab Task 

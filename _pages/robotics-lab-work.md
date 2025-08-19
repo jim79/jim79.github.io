@@ -29,17 +29,17 @@ layout: single
 ### Lab 2 : 21/08/25
 - Completing ROS installation and remaining tasks from lab 1
 - #### ROS basics 
-- Navigating the ROS Filesystem
-    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) \
+- Navigating the ROS Filesystem \
+    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
 - CMake basics [Lecture]
 - Creating a ROS workspace 
 
 - #### Understanding ROS Nodes 
     -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) 
-    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
-    - Understanding ROS Topics 
-    -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) 
-    -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) 
+        - Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+    - Understanding ROS Topics \
+        -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) 
+        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) 
 
 ##### Lab Task 
 - Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
@@ -131,4 +131,4 @@ layout: single
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
     -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
-    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ --> -->
+    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ --> 

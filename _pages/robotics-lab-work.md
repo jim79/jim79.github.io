@@ -57,10 +57,10 @@ layout: single
         -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
         -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
         -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)
-        
+
 ##### Lab Task   
 - Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
-        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) \
+        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
 - Create a simple publisher and Subscriber
 - Create three publishers within a ROS node
 - Create two ROS nodes that subscribes to the topics published (ROS node1 : subcribes to topic 1 & 3, ROS node 2 : subscribes to topic2) 
@@ -68,7 +68,8 @@ layout: single
 ##### Assignment 1 
 - Questions will be shared via Github Classroom
 
-### Preparatory work (To be completed by all students before lab 4)
+### Preparatory work 
+(To be completed by all students before lab 4)
 -  GitHub fundamentals \
         -[GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=wE-eT0DSa-FoOVH8) \
         -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \

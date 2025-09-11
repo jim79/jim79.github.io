@@ -45,20 +45,28 @@ layout: single
 - Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
     -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
 
-<!-- ### Lab 3 : 14/10/24
+### Lab 3 : 11/09/25
 - Understanding ROS Nodes \
         -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
     Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
         - Understanding ROS Topics \
         -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
         -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
-- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
-        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
 - Simple Publisher and Subscriber \
         -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
         -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
         -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
         -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)
+        
+##### Lab Task   
+- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
+        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) \
+- Create a simple publisher and Subscriber
+- Create three publishers within a ROS node
+- Create two ROS nodes that subscribes to the topics published (ROS node1 : subcribes to topic 1 & 3, ROS node 2 : subscribes to topic2) 
+
+##### Assignment 1 
+- Questions will be shared via Github Classroom
 
 ### Preparatory work (To be completed by all students before lab 4)
 -  GitHub fundamentals \
@@ -66,7 +74,7 @@ layout: single
         -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
         -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
 
-### Lab 4 : 21/10/24
+<!-- ### Lab 4 : 21/10/24
 - Service and Client nodes \
         -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
         -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
@@ -131,4 +139,4 @@ layout: single
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
     -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
-    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ --> 
+    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ -->  

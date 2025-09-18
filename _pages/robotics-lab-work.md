@@ -45,8 +45,8 @@ layout: single
 - Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
     -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
 
-### Lab 3 : 11/09/25
-- Understanding ROS Nodes \
+### Lab 3 : 11/09/25 - Publisher Subscriber
+- Understanding ROS Nodes (Review) \
         -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
     Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
         - Understanding ROS Topics \
@@ -75,7 +75,7 @@ layout: single
         -[installing git on Ubuntu 20.04](https://linuxhint.com/git-source-code-management-system/) \
         -[Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4?si=Mo8WTDtsDALJxIcL)
 
-<!-- ### Lab 4 : 21/10/24
+### Lab 4 : 18/09/25 - Service-Client
 - Service and Client nodes \
         -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
         -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
@@ -84,8 +84,14 @@ layout: single
         -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
         -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
         -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+##### Lab Task
+- Create a new package lab4_serv_client
+- Create a ROS service that finds the square of the number 
+- Create a ROS Client that uses the above service
+- List the running ROS nodes, topics and services
+- Explore details of the nodes using suitable ROS commands
 
-### Lab 5 : 28/10/24
+<!-- ### Lab 5 : 28/10/24
 - turtlesim \
         -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
         -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
@@ -140,4 +146,4 @@ layout: single
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
     -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
-    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._ -->  
+    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._  -->

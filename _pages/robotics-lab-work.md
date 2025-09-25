@@ -92,6 +92,7 @@ layout: single
 - Explore details of the nodes using suitable ROS commands
 
 ### Lab 5 : 25/09/25 - Turtlesim
+- Turtlesim \
     -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
     -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
     -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\

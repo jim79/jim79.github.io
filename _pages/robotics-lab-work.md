@@ -112,7 +112,7 @@ layout: single
     - Write a single python script that makes the turtle do the following actions in sequence:
         - Move x units towards top (ensure the turtle does not hit the top wall), make a 90 degree right turn, draw a circle of radius y units, move z units to the right (ensure the turtle does not hit the right wall), move w units towards down, make a 45 degree turn and move to the top by p units and then stop.
 
-<!-- ### Lab 6 : 4/11/24
+### Lab 6 : 9/10/25 - URDF
 - URDF \
         -[How do we describe a robot? With URDF!](https://youtu.be/CwdbsvcpOHM?si=PnAr6AdEhopQSnq7) \
         -[Create a visual model of a robot that you can view in Rviz](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch) 
@@ -121,8 +121,13 @@ layout: single
         -[Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model) \
         -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \
         -[ROS mobile robot URDF , Xacros with Meshes(Video demonstration)](https://youtu.be/yXFL5GWdvBE?si=XiqKn2PAhxOZAo6t)
+##### Lab Task
+- Create a new workspace <your first name>_bot
+- Source the above workspace to your bashrc below the ros noetic workspace
+- Within this workspace create the package <your first name>_bot_description
+-   Follow the above tutorials and material and write the urdf description of your bot
 
-### Lab 7 : 11/11/24
+<!-- ### Lab 7 : 11/11/24
 - ROS serial link for Arduino \
         - [Familiarizartion with Arduino](https://docs.arduino.cc/built-in-examples/) \
         - [Configure VS Code for rosserial_arduino](https://jim79.github.io/rosserial-arduino-vscode) \

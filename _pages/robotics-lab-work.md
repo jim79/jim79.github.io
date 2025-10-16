@@ -127,6 +127,28 @@ layout: single
 - Within this workspace create the package <your first name>_bot_description
 -   Follow the above tutorials and material and write the urdf description of your bot
 
+### Lab 7 : 16/10/25 - Gazebo
+- Gazebo \
+    Gazebo is an open-source 3D robotics simulator \
+    **Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_** \
+    -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
+    -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) 
+
+    **Navigate your mobile robot (Lab 6 work) in the gazebo world** \
+    _To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below)_ \
+    ```sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers``` \
+    **Additional references**: \
+    -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
+    -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
+
+##### Lab Task
+- Create a gazebo world for the mobile robot you built in lab 6. \
+    [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world) 
+- Create a gazebo.launch file to launch the bot in the world you have created. \
+- Create Rviz laaunch file for the bot
+- Troubleshoot errors referring to online documentation
+
+
 <!-- ### Lab 7 : 11/11/24
 - ROS serial link for Arduino \
         - [Familiarizartion with Arduino](https://docs.arduino.cc/built-in-examples/) \
@@ -137,23 +159,6 @@ layout: single
     1. Hello ROS serial node running on Arduino
     2. Led blinking and displaying led status on serial terminal
 
-### Lab 8 : 18/11/24
-- Lab Viva 
-- Gazebo \
-    Gazebo is an open-source 3D robotics simulator \
-    **Read and understand the _gazebo ros_ documentation in the two links below before you install _gazebo_** \
-    -[Which combination of ROS/Gazebo versions to use](https://classic.gazebosim.org/tutorials?tut=ros_wrapper_versions&cat=connect_ros) \
-    -[Installing gazebo_ros_pkgs (ROS 1)](https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros) 
-
-    -Create a gazebo world for the mobile robot you built in lab 6 \
-    [Building a Gazebo world](https://classic.gazebosim.org/tutorials?tut=build_world&cat=build_world) 
-
-    **Navigate your mobile robot (Lab 6 work) in the gazebo world** \
-    _To navigate your mobile robot in the gazebo world you may need to install additional controllers and packages (as given below)_ \
-    ```sudo apt-get install ros-kinetic-noetic-ros-pkgs ros-noetic-gazebo-ros-control ros-noetic-ros-control ros-noetic-ros-controllers``` \
-    **Additional references**: \
-    -[Teleop twist keyboard](http://wiki.ros.org/teleop_twist_keyboard) \
-    -[Steer drive controller](http://wiki.ros.org/steer_drive_controller)
 
 ### Lab 9 : 25/11/24
 - Lab Viva 

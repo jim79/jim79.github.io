@@ -148,8 +148,14 @@ layout: single
 - Create Rviz laaunch file for the bot
 - Troubleshoot errors referring to online documentation
 
-
-<!-- ### Lab 7 : 11/11/24
+### Lab 8 : 6/11/25
+- Lab Viva 
+- MoveIt \
+    MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
+    -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
+    -[MoveIt tutorials](https://moveit.github.io/moveit_tutorials/)  **Choose the ROS version from the dropdown menu in the left panel**\
+    
+<!-- ### Lab 9 : 11/11/24
 - ROS serial link for Arduino \
         - [Familiarizartion with Arduino](https://docs.arduino.cc/built-in-examples/) \
         - [Configure VS Code for rosserial_arduino](https://jim79.github.io/rosserial-arduino-vscode) \
@@ -157,13 +163,6 @@ layout: single
         - [DC motor interfacing with ROS serial](https://jim79.github.io/dc-motor-interfacing-with-ros-serial) \
     - Experiments to be done : 
     1. Hello ROS serial node running on Arduino
-    2. Led blinking and displaying led status on serial terminal
+    2. Led blinking and displaying led status on serial terminal -->
 
 
-### Lab 9 : 25/11/24
-- Lab Viva 
-- MoveIt \
-    MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
-    -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
-    -[MoveIt tutorials](https://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) \
-    _MoveIt tutorials for Noetic are Not available at this [link](https://ros-planning.github.io/moveit_tutorials/) as on November 25, 2024._  -->

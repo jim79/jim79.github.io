@@ -153,7 +153,7 @@ layout: single
 - MoveIt \
     MoveIt is an open-source robotic manipulation platform that allows you to develop complex manipulation applications using ROS \
     -[A sample Moveit application](https://robotnik.eu/moveit-manipulation-application/) \
-    -[MoveIt tutorials](https://moveit.github.io/moveit_tutorials/)  **Choose the ROS version from the dropdown menu in the left panel**\
+    -[MoveIt tutorials](https://moveit.github.io/moveit_tutorials/)  **Choose the ROS version from the dropdown menu in the left panel**
     
 <!-- ### Lab 9 : 11/11/24
 - ROS serial link for Arduino \

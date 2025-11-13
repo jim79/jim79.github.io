@@ -10,7 +10,7 @@ layout: single
 
 ### <a href="https://drive.google.com/drive/folders/1C-o7xpS_64cSE2uZLh-uymvrTE7SzW0F?usp=sharing">AET 372 - Internet of Things</a>
 
-### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">ECT 203 - Logic Circuit Design</a>
+### <a href="https://drive.google.com/drive/folders/1F2hiX129Ta8hZ0EYjcGnYAJ1ez5OvHZp?usp=sharing">PBECT304 - Logic Circuit Design</a>
 
 ### <a href="https://drive.google.com/drive/folders/1SL_225arAviqpAPsI3IYldQV2EQnP1z7?usp=sharing">ECT 206 - Computer Architecture and Microcontrollers</a>
 

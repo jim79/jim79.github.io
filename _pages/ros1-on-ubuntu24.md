@@ -3,7 +3,7 @@ title: Install ROS1 Noetic on Ubuntu 24.04 using Distrobox
 permalink: /ros1-on-ubuntu24/
 layout: single
 ---
-As we know ROS1 is officialy supported on Ubuntu 20.04 but in case you wish to run ROS1 on Ubuntu 24.04 , [Distrobox](https://distrobox.it/) is a good option. Distrobox is a utility that allows you to run multiple Linux distributions in your system without the need to dual boot or install them in a virtual machine.
+As we know ROS1 is officially supported on Ubuntu 20.04 but in case you wish to run ROS1 on Ubuntu 24.04 , [Distrobox](https://distrobox.it/) is a good option. Distrobox is a utility that allows you to run multiple Linux distributions in your system without the need to dual boot or install them in a virtual machine.
 
 Here is the complete, step-by-step guide to installing Ubuntu 20.04 via Distrobox and setting up ROS 1 Noetic on your Ubuntu 24.04 system.
 
@@ -24,7 +24,7 @@ sudo usermod -aG docker $USER
 ```
 
 **3. Apply Changes**
-**CRITICAL STEP:** You must log out and log back in for the permission changes to take effect.
+You must log out and log back in for the permission changes to take effect.
 *   Close all terminals.
 *   Log out of Ubuntu 24.04.
 *   Log back in.
@@ -154,7 +154,7 @@ roslaunch gazebo_ros empty_world.launch
 ```
 *The Gazebo window should pop up on your Ubuntu 24.04 desktop.*
 
-## Network Configuration (For External Robots)**
+## Network Configuration
 If you plan to communicate with an external robot from your distrobox hosted ROS1, you should check your IP address inside the container to confirm it matches your host:
 ```bash
 hostname -I

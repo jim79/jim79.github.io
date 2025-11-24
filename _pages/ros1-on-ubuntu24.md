@@ -1,6 +1,6 @@
 ---
 title: Install ROS1 Noetic on Ubuntu 24.04 using Distrobox
-permalink: /ros-noetic-install-raspberrypi/
+permalink: /ros1-on-ubuntu24/
 layout: single
 ---
 As we know ROS1 is officialy supported on Ubuntu 20.04 but in case you wish to run ROS1 on Ubuntu 24.04 , [Distrobox](https://distrobox.it/) is a good option. Distrobox is a utility that allows you to run multiple Linux distributions in your system without the need to dual boot or install them in a virtual machine.

@@ -51,10 +51,6 @@ To bypass any global Debian system-default paths and force TeXstudio to use the 
      ```text
      /usr/local/texlive/2022/bin/x86_64-linux/xelatex -synctex=1 -interaction=nonstopmode %.tex
      ```
-   * **PdfLaTeX** (Optional): Change to:
-     ```text
-     /usr/local/texlive/2022/bin/x86_64-linux/pdflatex -synctex=1 -interaction=nonstopmode %.tex
-     ```
 5. Click **OK** to save and apply.
 
 ---

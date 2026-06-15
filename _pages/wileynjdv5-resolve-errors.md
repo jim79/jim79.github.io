@@ -4,93 +4,76 @@ permalink: /wileynjdv5-resolve-errors/
 layout: single
 ---
 
-### Configuration Guide: TeX Live 2022 & Wiley NJD v5 Template on Debian
+# TeX Live 2022 + WileyNJDv5 on Debian: Getting it to actually compile
 
-The `WileyNJDv5` document class is the official LaTeX template for John Wiley & Sons journal submissions. Because it is optimized for older LaTeX environments and requires specific helper packages, compiling it on modern distributions can cause compatibility conflicts. Using a stable legacy setup like TeX Live 2022, installing the missing dependencies, and removing duplicate local files (such as the bundled `listings.sty`) ensures a successful compilation in TeXstudio.
-
----
-
-## Part 1: Installing TeX Live 2022 (Medium Scheme)
-
-Because Debian's default repositories install newer, active packages, TeX Live 2022 must be manually installed using the frozen historic archive from the TeX Users Group (TUG).
-
-1. **Download and extract the 2022 historic installer:**
-   ```bash
-   cd /tmp
-   wget https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/install-tl-unx.tar.gz
-   tar -xzf install-tl-unx.tar.gz
-   cd install-tl-2022*
-   ```
-
-2. **Run the installer pointing to the frozen 2022 repository:**
-   ```bash
-   sudo ./install-tl -repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/tlnet-final
-   ```
-
-3. **Select the Medium Installation (Option `c`):**
-   * Once the text-based installer menu loads, press **`S`** (Select Scheme).
-   * From the schemes list, choose **`c`** for the **Medium Scheme** (this installs a lightweight but functional LaTeX setup of approximately 600 MB).
-   * Press **`R`** to return to the main menu.
-   * Press **`I`** to start the installation.
-
-4. **Verify the installation path:**
-   Once completed, the binaries will be located at:
-   `/usr/local/texlive/2022/bin/x86_64-linux/`
+The `WileyNJDv5` document class assumes a fairly old LaTeX environment, and modern Debian packages fight it in a few specific ways. The fix that worked reliably: pin to TeX Live 2022 from TUG's historic archive, install the handful of missing packages, and delete the broken `listings.sty` that ships inside the Wiley zip. This guide walks through each step.
 
 ---
 
-## Part 2: Configuring TeXstudio for TeX Live 2022
+## Installing TeX Live 2022
 
-To bypass any global Debian system-default paths and force TeXstudio to use the newly installed TeX Live 2022 compiler:
-
-1. Open **TeXstudio**.
-2. Go to **Options** -> **Configure TeXstudio...**
-3. Select the **Commands** tab on the left.
-4. Modify the executable path for the compilers you use by prepending the absolute path:
-   * **XeLaTeX**: Change to:
-     ```text
-     /usr/local/texlive/2022/bin/x86_64-linux/xelatex -synctex=1 -interaction=nonstopmode %.tex
-     ```
-5. Click **OK** to save and apply.
-
----
-
-## Part 3: Installing Wiley Template Dependencies
-
-The "Medium Scheme" installation lacks several packages required by the Wiley journal template (`WileyNJDv5.cls`). 
-
-Since the 2022 release is frozen, you must explicitly route the package manager to the historic repository to download them. Run the following single command to install all required dependencies at once:
+Debian's repos pull in whatever the current TeX Live release is, so you need to go around them and grab the 2022 installer directly from TUG's frozen archive.
 
 ```bash
-sudo /usr/local/texlive/2022/bin/x86_64-linux/tlmgr --repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/tlnet-final install multirow sttools changepage dblfloatfix soul varwidth mathastext boites algorithmicx wrapfig
+cd /tmp
+wget https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/install-tl-unx.tar.gz
+tar -xzf install-tl-unx.tar.gz
+cd install-tl-2022*
+sudo ./install-tl -repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/tlnet-final
 ```
 
-### Installed Package Map:
-* **`sttools`**: Resolves the missing `cuted.sty` dependency.
-* **`algorithmicx`**: Resolves the missing `algpseudocode.sty` dependency.
-* **`wrapfig`**: Resolves the missing `wrapfig.sty` dependency.
-* **`varwidth`**, **`mathastext`**, **`boites`**, **`soul`**, **`dblfloatfix`**, **`changepage`**, **`multirow`**: Required formatting and structural packages.
+When the text installer menu appears, press **S** to choose a scheme, then **c** for the Medium scheme, then **R** to go back, then **I** to start. The Medium scheme is around 600 MB and has enough to work with — you'll add the Wiley-specific packages separately.
+
+Binaries land at `/usr/local/texlive/2022/bin/x86_64-linux/`.
 
 ---
 
-## Part 4: Resolving the Local `listings.sty` Conflict
+## Pointing TeXstudio at the right compiler
 
-The Wiley NJD v5 template distribution zip file contains its own local, outdated copy of `listings.sty` in the project folder. This local file is broken and causes compile-time syntax errors in modern environments.
+By default TeXstudio picks up whatever's on your system path, which is probably not the 2022 install. Fix it manually:
 
-To fix this:
-1. Open your local project folder (where `document.tex` is located).
-2. Locate the file named **`listings.sty`** inside this directory.
-3. **Delete** this file, or rename it to **`listings__.sty`**.
+**Options → Configure TeXstudio → Commands**
 
-Removing this file forces LaTeX to use the official, updated, and bug-free `listings` package from your TeX Live 2022 installation instead.
+Change the XeLaTeX entry to the full path:
+
+```
+/usr/local/texlive/2022/bin/x86_64-linux/xelatex -synctex=1 -interaction=nonstopmode %.tex
+```
 
 ---
 
-## Part 5: Verification
+## Installing the missing packages
 
-To verify that your setup is working correctly:
-1. Compile your document in TeXstudio (**F5**).
-2. Go to **Tools** -> **View Log**.
-3. Confirm that the very first line of the log outputs:
-   `This is XeTeX, Version ... (TeX Live 2022)`
+The Medium scheme skips a number of packages that `WileyNJDv5.cls` expects. Since the 2022 release is frozen, `tlmgr` needs the repository pointed explicitly at the historic archive:
+
+```bash
+sudo /usr/local/texlive/2022/bin/x86_64-linux/tlmgr \
+  --repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2022/tlnet-final \
+  install multirow sttools changepage dblfloatfix soul varwidth mathastext boites algorithmicx wrapfig
 ```
+
+A few of these map to non-obvious filenames — `sttools` is what provides `cuted.sty`, and `algorithmicx` covers `algpseudocode.sty`. The rest (`wrapfig`, `varwidth`, `mathastext`, `boites`, `soul`, `dblfloatfix`, `changepage`, `multirow`) are standard formatting dependencies the template pulls in.
+
+---
+
+## Removing the bundled `listings.sty`
+
+The Wiley zip includes its own copy of `listings.sty` in the project folder. It's outdated and causes syntax errors at compile time. Just delete it (or rename it to something like `listings__.sty` if you want to keep it around):
+
+```
+<your project folder>/listings.sty  ← delete this
+```
+
+Once it's gone, LaTeX falls back to the `listings` package from the TeX Live 2022 installation, which compiles cleanly.
+
+---
+
+## Checking that it worked
+
+Compile with **F5** in TeXstudio, then open **Tools → View Log**. The first line should read something like:
+
+```
+This is XeTeX, Version ... (TeX Live 2022)
+```
+
+If it doesn't, TeXstudio is still pointing at a different installation — double-check the Commands path from the configuration step above.

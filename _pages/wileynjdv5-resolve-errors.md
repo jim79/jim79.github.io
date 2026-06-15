@@ -4,11 +4,9 @@ permalink: /wileynjdv5-resolve-errors/
 layout: single
 ---
 
+### Configuration Guide: TeX Live 2022 & Wiley NJD v5 Template on Debian
+
 The `WileyNJDv5` document class is the official LaTeX template for John Wiley & Sons journal submissions. Because it is optimized for older LaTeX environments and requires specific helper packages, compiling it on modern distributions can cause compatibility conflicts. Using a stable legacy setup like TeX Live 2022, installing the missing dependencies, and removing duplicate local files (such as the bundled `listings.sty`) ensures a successful compilation in TeXstudio.
-
-# Configuration Guide: TeX Live 2022 & Wiley NJD v5 Template on Debian
-
-This document outlines the step-by-step process of installing a manual, frozen version of **TeX Live 2022 (Medium Scheme)** on Debian, configuring **TeXstudio** to use it, and resolving template-specific dependency conflicts for the **WileyNJDv5** journal template.
 
 ---
 

@@ -4,6 +4,8 @@ permalink: /lecture-handouts/
 layout: single
 ---
 
+### <a href="https://drive.google.com/drive/folders/10qfY3E1cYIZ6iN1Txic2sdQBXE7_gywj?usp=sharing">GXEST104 - Introduction to Electrical & Electronic Engineering</a>
+
 ### <a href="https://drive.google.com/drive/folders/1ndBfAwBj3yDyTWX5vXVN9W5ujMV0fHPP?usp=sharing">PBECT404 - Microcontrollers</a>
 
 ### <a href="https://drive.google.com/drive/folders/1cAN_On4eF3P7cAaD6w-UtANHSVyDc5P9?usp=sharing">GXEST203 - Foundations of Computing:From Hardware Essentials to Web Design</a>

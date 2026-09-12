@@ -31,3 +31,41 @@ layout: single
 - Python basics
      -[PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/) 
 
+### Home Assignment 1 - ROS Nodes
+- Completing ROS installation and remaining tasks from lab 1
+- #### ROS basics 
+- Navigating the ROS Filesystem \
+    -[Navigating the ROS Filesystem](https://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem) 
+- CMake basics [Lecture]
+- Creating a ROS workspace 
+
+- #### Understanding ROS Nodes 
+    -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) 
+        - Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+    - Understanding ROS Topics \
+        -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) 
+        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd) 
+
+##### Task 
+- Create a new package named *lab2_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
+    -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z)
+
+### ### Home Assignment 2 - Publisher Subscriber
+- Understanding ROS Nodes (Review) \
+        -[ROS nodes](https://wiki.ros.org/ROS/Tutorials/UnderstandingNodes) \
+    Learn about ROS nodes, topics, ROS commands - roscore, rosnode, rosrun 
+        - Understanding ROS Topics \
+        -[ROS topics](https://wiki.ros.org/ROS/Tutorials/UnderstandingTopics) \
+        -[video demo](https://youtu.be/rIPmFy_Ax2A?si=WgEjDfC164pchmbd)
+- Simple Publisher and Subscriber \
+        -[Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) \
+        -[Examining the Simple Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber) \
+        -[A ROS publisher node - line by line commented](https://jim79.github.io/ros-simple-publisher) \
+        -[A ROS subsriber node line by line commented](https://jim79.github.io/ros-simple-subscriber)
+
+##### Task   
+- Create a new package named *lab3_sub_pub* in the src folder of your catkin_ws. The package dependencies are std_msgs and rospy \
+        -[Video demo - Creating ROS package using catkin_create_pkg command](https://youtu.be/QRJ9mbzWPcY?si=iVz5lwKnvlBRC__Z) 
+- Create a simple publisher and Subscriber
+- Create three publishers within a ROS node
+- Create two ROS nodes that subscribes to the topics published (ROS node1 : subcribes to topic 1 & 3, ROS node 2 : subscribes to topic2) 

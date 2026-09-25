@@ -69,3 +69,22 @@ layout: single
 - Create a simple publisher and Subscriber
 - Create three publishers within a ROS node
 - Create two ROS nodes that subscribes to the topics published (ROS node1 : subcribes to topic 1 & 3, ROS node 2 : subscribes to topic2) 
+
+### Lab 3 : 25/09/26 - Service-Client
+- Evaluation and review of Home Assignment 1 & 2
+
+- Service and Client nodes \
+        -[Basics of ROS Service-Client (Video )](https://youtu.be/MVnXfGLQb-c?si=8RsL4O5-2Glr6E8F) \
+        -[Simple Service and Client nodes](http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29) \
+        -[Examining the Simple Service and Client](http://wiki.ros.org/ROS/Tutorials/ExaminingServiceClient) \
+        -[Changes to be made in CMakeLists.txt and package.xml files of the Service-Client package](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) \
+        -[Summary of changes to be made to CMakeLists.txt and package.xml](https://jim79.github.io/ros-service-client-cmake-package-modifications) \
+        -[ROS Service - Server node (coding) Video tutorial](https://youtu.be/1-5tm4RIK6o) \
+        -[ROS Service - Client node (coding) Video tutorial](https://youtu.be/Fp4x8WlLVb8) 
+##### Lab Task
+- Create a new package lab4_serv_client
+- Create a ROS service that finds the square of the number 
+- Create a ROS Client that uses the above service
+- List the running ROS nodes, topics and services
+- Explore details of the nodes using suitable ROS commands
+

@@ -1,5 +1,5 @@
 ---
-title: Logic Design Lab
+title: Logic Circuit Design Lab
 permalink: /lcd-lab/
 layout: single
 ---

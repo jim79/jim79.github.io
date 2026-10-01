@@ -4,7 +4,7 @@ permalink: /lcd-lab/
 layout: single
 ---
 
-## ECL203 - Logic Design Lab
+## PCECL308 - Logic Circuit Design Lab
 ### EDA Playground
 [EDA playground](https://www.edaplayground.com/) \
 EDA playground allows you to edit, save, simulate, synthesize Verilog, VHDL and other HDLs from your **web browser**

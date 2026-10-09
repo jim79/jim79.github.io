@@ -88,3 +88,23 @@ layout: single
 - List the running ROS nodes, topics and services
 - Explore details of the nodes using suitable ROS commands
 
+### Lab 4 : 09/10/25 - Turtlesim
+- Turtlesim \
+    -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
+    -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
+    -[Madhur Behl, University of Virginia](https://engineering.virginia.edu/faculty/madhur-behl)\
+    -[Tutorials Using Turtlesim](https://wiki.ros.org/turtlesim/Tutorials)  Scroll to the bottom of the page to find the tutorials \
+    - Control the turtle with rqt_robot_steering GUI \```rosrun rqt_robot_steering rqt_robot_steering```
+- Launch files \
+    -[launch files - Chapter from the book 'A Gentle Introduction to ROS'](https://jokane.net/agitr/agitr-small-launch.pdf) [link 2](https://jim79.github.io/assets/launch_files_gentle_intro_ros.pdf) \
+    -[Launch multiple nodes using launch file (Video tutorial)](https://youtu.be/kKoPqGDgwMo) 
+
+##### Lab Task
+- Create a new package lab4_turtlesim
+- Launch turtlesim turtle
+    - List all the running topics
+    - Using suitable commands find more info about the topic related to turtlesim turtle (cmd_vel, color_sensor, pose)
+    - Using suitable commands find more info about the ROS message(s) of the above topics (geometry_msgs/Twist, turtlesim/Color,turtlesim/Pose)
+    - Using the above messages control the turtlesim turtle 
+    - Write a single python script that makes the turtle do the following actions in sequence:
+        - Move x units towards top (ensure the turtle does not hit the top wall), make a 90 degree right turn, draw a circle of radius y units, move z units to the right (ensure the turtle does not hit the right wall), move w units towards down, make a 45 degree turn and move to the top by p units and then stop.

@@ -88,7 +88,7 @@ layout: single
 - List the running ROS nodes, topics and services
 - Explore details of the nodes using suitable ROS commands
 
-### Lab 4 : 09/10/25 - Turtlesim
+### Lab 4 : 09/10/26 - Turtlesim
 - Turtlesim \
     -[Getting Started with Turtlesim](https://wiki.ros.org/turtlesim) \
     -[Understanding ROS using Turtlesim by Prof. Madhur Behl](https://jim79.github.io/assets/ros-turtlesim.pdf) \
@@ -108,3 +108,20 @@ layout: single
     - Using the above messages control the turtlesim turtle 
     - Write a single python script that makes the turtle do the following actions in sequence:
         - Move x units towards top (ensure the turtle does not hit the top wall), make a 90 degree right turn, draw a circle of radius y units, move z units to the right (ensure the turtle does not hit the right wall), move w units towards down, make a 45 degree turn and move to the top by p units and then stop.
+
+### Lab 5 : 24/10/26 - Work on assignments 2 & 3
+
+### Lab 6 : 30/10/26 - URDF
+- URDF \
+        -[How do we describe a robot? With URDF!](https://youtu.be/CwdbsvcpOHM?si=PnAr6AdEhopQSnq7) \
+        -[Create a visual model of a robot that you can view in Rviz](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch) 
+- Mobile robot URDF \
+        -[Creating urdf model of a robot (Video demonstration)](https://youtu.be/-fMxgG1cPDA?si=9V84MQ9Tzgh1Xdjj) \
+        -[Adding Physical and Collision Properties to a URDF Model](http://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model) \
+        -[Using Xacro to Clean Up a URDF File](http://wiki.ros.org/urdf/Tutorials/Using%20Xacro%20to%20Clean%20Up%20a%20URDF%20File) \
+        -[ROS mobile robot URDF , Xacros with Meshes(Video demonstration)](https://youtu.be/yXFL5GWdvBE?si=XiqKn2PAhxOZAo6t)
+##### Lab Task
+- Create a new workspace <your first name>_bot
+- Source the above workspace to your bashrc below the ros noetic workspace
+- Within this workspace create the package <your first name>_bot_description
+-   Follow the above tutorials and material and write the urdf description of your bot

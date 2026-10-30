@@ -14,8 +14,9 @@ EDA playground allows you to edit, save, simulate, synthesize Verilog, VHDL and 
 
 ### AMD Vivado
 We have AMD Vivado installed on HPC which can be accessed via ssh on the campus network.
-- [Half Adder Simulation on Vivado: Video Tutorial](https://youtu.be/v4Zj3Aa8k-A?si=5HtvFY5lvJ6-cqwh) 
-- [Half Adder on Basys 3 FPGA:]()
+- [Half Adder Simulation on Vivado: Video Tutorial](https://youtu.be/v4Zj3Aa8k-A) 
+- [Half Adder: Setting constraints using Vivado GUI](https://youtu.be/oQQMpzre_r0)
+- [Half Adder : Synthesis on Basys 3 using Vivado](https://youtu.be/TEyNwE9xzqM)
 
 ### ModelSim
 ModelSim can be installed on PC (Windows/Linux) to simulate Verilog HDL or VHDL code

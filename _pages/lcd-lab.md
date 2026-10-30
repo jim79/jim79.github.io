@@ -13,7 +13,7 @@ EDA playground allows you to edit, save, simulate, synthesize Verilog, VHDL and 
 -[Basic gate simulation](https://youtu.be/4YVc8Yk2vQs)
 
 ### AMD Vivado
-We have AMD Vivado installed on HPC which can be accessed via ssh on the campus network.
+We have AMD Vivado installed on HPC which can be accessed via ssh on the campus network. Thanks to Professor Lalu V. for installing and configuring AMD Vivado on HPC for lab use.
 - [Half Adder Simulation on Vivado: Video Tutorial](https://youtu.be/v4Zj3Aa8k-A) 
 - [Half Adder: Setting constraints using Vivado GUI](https://youtu.be/oQQMpzre_r0)
 - [Half Adder : Synthesis on Basys 3 using Vivado](https://youtu.be/TEyNwE9xzqM)
